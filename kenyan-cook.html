@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-firestore.js"></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=1600, maximum-scale=1.0" />
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
@@ -14,25 +17,23 @@
   <body style="margin: 0; background: #ffffff">
     <input type="hidden" id="anPageName" name="page" value="kenyan-cook" />
     <div class="container-center-horizontal">
-      <form class="kenyan-cook screen" name="form94" action="form94" method="post">
+      <div class="kenyan-cook screen">
         <div class="overlap-group-C61RwL">
-          <div class="group-88-4eduM0"><img class="vector-4-K8H2xh" src="img/vector-4-12@1x.svg" /></div>
+          <div class="group-88-4eduM0"><img class="vector-4-K8H2xh" src="img/vector-4-10@1x.svg" /></div>
           <div class="kenyan-4eduM0 cabin-bold-black-72px">Kenyan</div>
-          <img class="vector-2-4eduM0" src="img/vector-2-3@1x.svg" />
-          <img class="vector-1-4eduM0" src="img/vector-1-14@2x.svg" />
+          <img class="vector-2-4eduM0" src="img/vector-2-10@1x.svg" />
+          <img class="vector-1-4eduM0" src="img/vector-1-10@2x.svg" />
           <div class="flex-row-4eduM0">
             <img class="culture-connect-1-BVP5wq" src="img/culture-connect-1@2x.png" />
             <div class="flex-col-BVP5wq">
               <div class="flex-row-rVpU9B">
-                <a href="home.html"
-                  ><div class="home-FSLMJj smart-layers-pointers cabin-normal-black-27px">Home</div></a
-                >
+                <a href="home.html"><div class="home-FSLMJj smart-layers-pointers cabin-normal-black-27px">Home</div></a>
                 <a href="skills.html"><div class="skills-FSLMJj cabin-normal-black-27px">Skills</div></a>
                 <a href="forum.html"><div class="forum-FSLMJj cabin-normal-black-27px">Forum</div></a>
                 <a href="cooking.html"><div class="cooking-FSLMJj cabin-normal-black-27px">Cooking</div></a>
-                <img class="line-3-FSLMJj" src="img/line-1@2x.svg" />
+                <img class="line-3-FSLMJj" src="img/line-3@2x.svg" />
               </div>
-              <img class="line-2-rVpU9B" src="img/line-2-7@2x.svg" />
+              <img class="line-2-rVpU9B" src="img/line-2-1@2x.svg" />
             </div>
           </div>
           <div class="flex-row-BJQsbv">
@@ -43,16 +44,14 @@
                 <div class="group-110-e2rjrs smart-layers-pointers">
                   <div class="rectangle-87-TYRh0b"></div>
                   <div class="biltong-TYRh0b cabin-bold-black-26px">Biltong</div>
-                  <img class="rectangle-86-TYRh0b" src="img/rectangle-86-9@2x.png" />
+                  <img class="rectangle-86-TYRh0b" src="img/rectangle-86-10@2x.png" />
                 </div>
                 <div class="flex-col-e2rjrs">
-                  <a href="kenyan-recipe.html">
-                    <div class="group-108-DvHaix smart-layers-pointers">
-                      <div class="rectangle-88-7w8zwm"></div>
-                      <img class="rectangle-89-7w8zwm" src="img/rectangle-89-12@2x.png" />
-                      <div class="boerewors-7w8zwm cabin-bold-black-26px">Boerewors</div>
-                    </div></a
-                  >
+                  <div class="group-108-DvHaix smart-layers-pointers">
+                    <div class="rectangle-88-7w8zwm"></div>
+                    <img class="rectangle-89-7w8zwm" src="img/rectangle-89-9@2x.png" />
+                    <div class="boerewors-7w8zwm cabin-bold-black-26px">Boerewors</div>
+                  </div>
                   <div class="rectangle-40-DvHaix">
                     <iframe
                       style="border: 0; pointer-events: auto"
@@ -73,56 +72,59 @@
               </div>
             </div>
           </div>
-          <img class="vector-7-4eduM0" src="img/vector-7-12@1x.svg" />
+          <img class="vector-7-4eduM0" src="img/vector-7-10@1x.svg" />
           <div class="rectangle-98-4eduM0"></div>
-          <a href="javascript:SubmitForm('form94')">
-            <div class="group-18-4eduM0">
-              <div class="rectangle-2-ulG7hq"></div>
-              <div class="log-in-ulG7hq cabin-normal-white-27px">Log in</div>
-            </div></a
-          >
-          <a href="javascript:SubmitForm('form94')">
-            <div class="group-19-4eduM0">
-              <div class="rectangle-2-xPfyMe"></div>
-              <div class="sign-up-xPfyMe cabin-normal-white-27px">Sign up</div>
-            </div></a
-          >
-          <a href="javascript:SubmitForm('form94')">
-            <div class="group-20-4eduM0">
-              <div class="rectangle-2-Gr60HI"></div>
-              <div class="log-out-Gr60HI cabin-normal-white-27px">Log out</div>
-            </div></a
-          >
           <div class="learn-new-recipes-4eduM0 cabin-normal-star-dust-27px">Learn new recipes</div>
+          <div class="group-18-4eduM0">
+            <div class="rectangle-2-ulG7hq"></div>
+            <div class="log-in-ulG7hq cabin-normal-white-27px">Log in</div>
+          </div>
+          <div class="group-19-4eduM0">
+            <div class="rectangle-2-xPfyMe"></div>
+            <div class="sign-up-xPfyMe cabin-normal-white-27px">Sign up</div>
+          </div>
+          <div class="group-20-4eduM0">
+            <div class="rectangle-2-Gr60HI"></div>
+            <div class="log-out-Gr60HI cabin-normal-white-27px">Log out</div>
+          </div>
         </div>
         <div class="flex-row-C61RwL">
           <img class="line-12-dXBp89" src="img/line-6@2x.svg" />
           <div class="community-recipes-dXBp89 cabin-bold-black-36px">Community Recipes</div>
         </div>
-        <img class="vector-14-C61RwL" src="img/vector-14-16@1x.svg" />
-      </form>
+        <div class="posts">
+          <form id="add-chinese-recipes">
+              <h2>Add a recipe</h2>
+              <input type="text" name="name" placeholder="Recipe Name">
+              <input type="text" name="recipe" placeholder="Your Name">
+              <input type="text" name="url" placeholder="URL">
+              <button>Add Recipe</button>
+          </form>
+    
+      </div>
+    
+      <div class="content">
+          <ul id="post-list"></ul>
+      </div>
+        <img class="vector-14-C61RwL" src="img/vector-14-10@1x.svg" />
+      </div>
     </div>
     <script>
-      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
-
-      if (!HTMLFormElement.prototype.reportValidity) {
-        HTMLFormElement.prototype.reportValidity = function () {
-          if (this.checkValidity()) return true;
-          var btn = document.createElement("button");
-          this.appendChild(btn);
-          btn.click();
-          this.removeChild(btn);
-          return false;
-        };
-      }
-
-      function SubmitForm(form_name) {
-        var form = document.getElementsByName(form_name)[0];
-        if (form.reportValidity()) {
-          form.submit();
-          if (window.submitted) window.submitted();
-        }
-      }
-    </script>
+      // Your web app's Firebase configuration
+          var firebaseConfig = {
+              apiKey: "AIzaSyBN9_zpJFn8QFd7JNwoiqbm0SrMt1UmyqY",
+              authDomain: "recipes-cc4bd.firebaseapp.com",
+              projectId: "recipes-cc4bd",
+              storageBucket: "recipes-cc4bd.appspot.com",
+              messagingSenderId: "343436564232",
+              appId: "1:343436564232:web:e546a99c5da8e061b9febd"
+          };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          const db = firebase.firestore();
+          db.settings({ timestampsInSnapshots: true });
+      </script>
+      <script src="ckenyan.js" ></script>
   </body>
 </html>
+

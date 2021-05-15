@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-firestore.js"></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=1600, maximum-scale=1.0" />
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
@@ -14,97 +17,96 @@
   <body style="margin: 0; background: #ffffff">
     <input type="hidden" id="anPageName" name="page" value="indian-cooking" />
     <div class="container-center-horizontal">
-      <form class="indian-cooking screen" name="form76" action="form76" method="post">
+      <div class="indian-cooking screen">
         <div class="overlap-group-C61RwL">
-          <img class="vector-3-4eduM0" src="img/vector-3@1x.svg" />
-          <img class="vector-4-4eduM0" src="img/vector-4@1x.svg" />
+          <img class="vector-3-4eduM0" src="img/vector-3-1@1x.svg" />
+          <img class="vector-4-4eduM0" src="img/vector-4-1@1x.svg" />
           <div class="indian-4eduM0 cabin-bold-black-72px">Indian</div>
-          <img class="vector-2-4eduM0" src="img/vector-2-2@1x.svg" />
-          <img class="vector-1-4eduM0" src="img/vector-1-2@2x.svg" />
+          <img class="vector-2-4eduM0" src="img/vector-2-4@1x.svg" />
+          <img class="vector-1-4eduM0" src="img/vector-1-4@2x.svg" />
           <div class="flex-row-4eduM0">
             <img class="line-6-BVP5wq" src="img/line-6@2x.svg" />
             <div class="flex-col-BVP5wq">
               <div class="built-in-recipes-rVpU9B cabin-bold-black-36px">Built-in Recipes</div>
               <div class="flex-row-rVpU9B">
-                <a href="indian-recipe.html">
-                  <div class="group-112-FSLMJj smart-layers-pointers">
-                    <div class="rectangle-87-3bvNuQ smart-layers-pointers"></div>
-                    <div class="butter-chicken-3bvNuQ cabin-bold-black-26px">Butter Chicken</div>
-                    <img class="rectangle-86-3bvNuQ" src="img/rectangle-86-4@2x.png" /></div
-                ></a>
+                <div class="group-112-FSLMJj smart-layers-pointers">
+                  <div class="rectangle-87-3bvNuQ smart-layers-pointers"></div>
+                  <div class="butter-chicken-3bvNuQ cabin-bold-black-26px">Butter Chicken</div>
+                  <img class="rectangle-86-3bvNuQ" src="img/rectangle-86-4@2x.png" />
+                </div>
                 <div class="group-115-FSLMJj smart-layers-pointers">
                   <div class="rectangle-88-U0OexH smart-layers-pointers"></div>
-                  <img class="rectangle-89-U0OexH" src="img/rectangle-89-7@2x.png" />
+                  <img class="rectangle-89-U0OexH" src="img/rectangle-89-3@2x.png" />
                   <div class="tikka-masala-U0OexH cabin-bold-black-26px">Tikka Masala</div>
                 </div>
               </div>
             </div>
           </div>
-          <img class="vector-7-4eduM0" src="img/vector-7-21@1x.svg" />
+          <img class="vector-7-4eduM0" src="img/vector-7-4@1x.svg" />
           <div class="flex-row-BJQsbv">
             <img class="culture-connect-1-qOxrzu" src="img/culture-connect-1@2x.png" />
             <div class="flex-col-qOxrzu">
               <div class="flex-row-4F9G3j">
-                <a href="home.html"
-                  ><div class="home-e2rjrs smart-layers-pointers cabin-normal-black-27px">Home</div></a
-                >
+                <a href="home.html"><div class="home-e2rjrs smart-layers-pointers cabin-normal-black-27px">Home</div></a>
                 <a href="skills.html"><div class="skills-e2rjrs cabin-normal-black-27px">Skills</div></a>
                 <a href="forum.html"><div class="forum-e2rjrs cabin-normal-black-27px">Forum</div></a>
                 <a href="cooking.html"><div class="cooking-e2rjrs cabin-normal-black-27px">Cooking</div></a>
-                <img class="line-3-e2rjrs" src="img/line-1@2x.svg" />
+                <img class="line-3-e2rjrs" src="img/line-3@2x.svg" />
               </div>
-              <img class="line-2-4F9G3j" src="img/line-2-7@2x.svg" />
+              <img class="line-2-4F9G3j" src="img/line-2-1@2x.svg" />
             </div>
           </div>
           <div class="rectangle-98-4eduM0"></div>
-          <a href="javascript:SubmitForm('form76')">
-            <div class="group-18-4eduM0">
-              <div class="rectangle-2-ulG7hq"></div>
-              <div class="log-in-ulG7hq cabin-normal-white-27px">Log in</div>
-            </div></a
-          >
-          <a href="javascript:SubmitForm('form76')">
-            <div class="group-19-4eduM0">
-              <div class="rectangle-2-xPfyMe"></div>
-              <div class="sign-up-xPfyMe cabin-normal-white-27px">Sign up</div>
-            </div></a
-          >
-          <a href="javascript:SubmitForm('form76')">
-            <div class="group-20-4eduM0">
-              <div class="rectangle-2-Gr60HI"></div>
-              <div class="log-out-Gr60HI cabin-normal-white-27px">Log out</div>
-            </div></a
-          >
           <div class="learn-new-recipes-4eduM0 cabin-normal-star-dust-27px">Learn new recipes</div>
+          <div class="group-18-4eduM0">
+            <div class="rectangle-2-ulG7hq"></div>
+            <div class="log-in-ulG7hq cabin-normal-white-27px">Log in</div>
+          </div>
+          <div class="group-19-4eduM0">
+            <div class="rectangle-2-xPfyMe"></div>
+            <div class="sign-up-xPfyMe cabin-normal-white-27px">Sign up</div>
+          </div>
+          <div class="group-20-4eduM0">
+            <div class="rectangle-2-Gr60HI"></div>
+            <div class="log-out-Gr60HI cabin-normal-white-27px">Log out</div>
+          </div>
         </div>
         <div class="flex-row-C61RwL">
           <img class="line-12-dXBp89" src="img/line-6@2x.svg" />
           <div class="community-recipes-dXBp89 cabin-bold-black-36px">Community Recipes</div>
         </div>
-        <img class="vector-14-C61RwL" src="img/vector-14-10@1x.svg" />
-      </form>
+        <div class="posts">
+          <form id="add-chinese-recipes">
+              <h2>Add a recipe</h2>
+              <input type="text" name="name" placeholder="Recipe Name">
+              <input type="text" name="recipe" placeholder="Your Name">
+              <input type="text" name="url" placeholder="URL">
+              <button>Add Recipe</button>
+          </form>
+    
+      </div>
+    
+      <div class="content">
+          <ul id="post-list"></ul>
+      </div>
+        <img class="vector-14-C61RwL" src="img/vector-14-4@1x.svg" />
+      </div>
     </div>
     <script>
-      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
-
-      if (!HTMLFormElement.prototype.reportValidity) {
-        HTMLFormElement.prototype.reportValidity = function () {
-          if (this.checkValidity()) return true;
-          var btn = document.createElement("button");
-          this.appendChild(btn);
-          btn.click();
-          this.removeChild(btn);
-          return false;
-        };
-      }
-
-      function SubmitForm(form_name) {
-        var form = document.getElementsByName(form_name)[0];
-        if (form.reportValidity()) {
-          form.submit();
-          if (window.submitted) window.submitted();
-        }
-      }
-    </script>
+      // Your web app's Firebase configuration
+          var firebaseConfig = {
+              apiKey: "AIzaSyBN9_zpJFn8QFd7JNwoiqbm0SrMt1UmyqY",
+              authDomain: "recipes-cc4bd.firebaseapp.com",
+              projectId: "recipes-cc4bd",
+              storageBucket: "recipes-cc4bd.appspot.com",
+              messagingSenderId: "343436564232",
+              appId: "1:343436564232:web:e546a99c5da8e061b9febd"
+          };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          const db = firebase.firestore();
+          db.settings({ timestampsInSnapshots: true });
+      </script>
+      <script src="cindian.js" ></script>
   </body>
 </html>
