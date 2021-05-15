@@ -1,0 +1,11 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  background-color: var(--white);
+  height: 100px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100px;
+}

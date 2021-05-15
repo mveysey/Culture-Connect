@@ -1,0 +1,568 @@
+/* screen - kenyan-cook */
+
+.kenyan-cook {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3341px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.kenyan-cook .biltong-TYRh0b {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 222px;
+}
+.kenyan-cook .boerewors-7w8zwm {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 341px;
+}
+.kenyan-cook .built-in-recipes-4F9G3j {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.kenyan-cook .community-recipes-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.kenyan-cook .cooking-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.kenyan-cook .culture-connect-1-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.kenyan-cook .flex-col-BVP5wq {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.kenyan-cook .flex-col-e2rjrs {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 43px;
+  min-height: 328px;
+  position: relative;
+  width: 378px;
+}
+.kenyan-cook .flex-col-qOxrzu {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-height: 427px;
+  position: relative;
+  width: 813px;
+}
+.kenyan-cook .flex-row-4F9G3j {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 328px;
+  justify-content: flex-start;
+  margin-top: 38px;
+  min-width: 800px;
+  position: relative;
+  width: auto;
+}
+.kenyan-cook .flex-row-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.kenyan-cook .flex-row-BJQsbv {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 434px;
+  justify-content: flex-start;
+  left: 198px;
+  min-width: 817px;
+  position: absolute;
+  top: 955px;
+  width: auto;
+}
+.kenyan-cook .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 68px;
+  justify-content: flex-start;
+  margin-right: 386.5px;
+  margin-top: 142px;
+  min-width: 817px;
+  position: relative;
+  width: auto;
+}
+.kenyan-cook .flex-row-rVpU9B {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.kenyan-cook .forum-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.kenyan-cook .group-108-DvHaix {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 328px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 378px;
+}
+.kenyan-cook .group-108-DvHaix:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kenyan-cook .group-110-e2rjrs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 379px;
+}
+.kenyan-cook .group-110-e2rjrs:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kenyan-cook .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.kenyan-cook .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.kenyan-cook .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.kenyan-cook .group-88-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/vector-3-12@1x.svg);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 238px;
+  justify-content: flex-start;
+  left: 577px;
+  min-width: 1023px;
+  padding: 0 2.9px;
+  position: absolute;
+  top: 581px;
+  width: auto;
+}
+.kenyan-cook .home-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.kenyan-cook .home-FSLMJj:hover {
+
+transform: scale(1.1);
+}
+.kenyan-cook .kenyan-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.kenyan-cook .learn-new-recipes-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 221px;
+}
+.kenyan-cook .line-12-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.kenyan-cook .line-2-rVpU9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 29.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 103px;
+}
+.kenyan-cook .line-3-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.kenyan-cook .line-6-qOxrzu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.kenyan-cook .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.kenyan-cook .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.kenyan-cook .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1389px;
+  position: relative;
+  width: 1600px;
+}
+.kenyan-cook .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.kenyan-cook .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.kenyan-cook .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.kenyan-cook .rectangle-40-DvHaix {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-right: 14.0px;
+  margin-top: -45px;
+  overflow: hidden;
+  position: relative;
+  width: 1px;
+}
+.kenyan-cook .rectangle-86-TYRh0b {
+  background-color: transparent;
+  height: 211px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 346px;
+}
+.kenyan-cook .rectangle-87-TYRh0b {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 377px;
+}
+.kenyan-cook .rectangle-88-7w8zwm {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 376px;
+}
+.kenyan-cook .rectangle-89-7w8zwm {
+  background-color: transparent;
+  height: 211px;
+  left: 15px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 346px;
+}
+.kenyan-cook .rectangle-98-4eduM0 {
+  background-color: var(--mist-gray);
+  height: 422px;
+  left: 457px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 245px;
+  width: 1088px;
+}
+.kenyan-cook .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.kenyan-cook .skills-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.kenyan-cook .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.kenyan-cook .vector-14-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 407px;
+  margin-left: 33.0px;
+  margin-top: 1335px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1523px;
+}
+.kenyan-cook .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.kenyan-cook .vector-4-K8H2xh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 238px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 911px;
+}
+.kenyan-cook .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 585px;
+}

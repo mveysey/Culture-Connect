@@ -1,0 +1,698 @@
+/* screen - china-1 */
+
+.china-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3224px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.china-1 .add-your-own-recipe-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 285px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: 802px;
+}
+.china-1 .built-in-recipes-9VdFwH {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.china-1 .chinese-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.china-1 .community-recipes-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.china-1 .cooking-nh8mnU {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.china-1 .explore-stuff-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 403px;
+  width: 160px;
+}
+.china-1 .first-name-4eduM0 {
+  background-color: var(--white);
+  border: 0;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 81px;
+  left: 285px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  top: 209px;
+  width: 447px;
+}
+.china-1 .flex-col-RkpQgY {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 35px;
+  margin-top: 5px;
+  min-height: 44px;
+  position: relative;
+  width: 114px;
+}
+.china-1 .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 68px;
+  justify-content: flex-start;
+  margin-left: 192.5px;
+  margin-top: 142px;
+  min-width: 817px;
+  position: relative;
+  width: auto;
+}
+.china-1 .flex-row-RH0WJ5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 66px;
+  justify-content: flex-start;
+  left: 98px;
+  min-width: 1092px;
+  position: absolute;
+  top: 55px;
+  width: auto;
+}
+.china-1 .flex-row-s3i1G8 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 68px;
+  justify-content: flex-start;
+  left: 192px;
+  min-width: 817px;
+  position: absolute;
+  top: 955px;
+  width: auto;
+}
+.china-1 .forum-RkpQgY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.china-1 .group-15-JfrZ6n {
+  background-color: transparent;
+  height: 23px;
+  left: 220px;
+  position: absolute;
+  top: 170px;
+  width: 500px;
+}
+.china-1 .group-16-JfrZ6n {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 62px;
+  justify-content: flex-start;
+  left: 232px;
+  min-width: 494px;
+  position: absolute;
+  top: 301px;
+  width: auto;
+}
+.china-1 .group-17-RH0WJ5 {
+  background-color: transparent;
+  height: 406px;
+  left: 635px;
+  position: absolute;
+  top: 261px;
+  width: 946px;
+}
+.china-1 .group-18-RH0WJ5 {
+  background-color: transparent;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.china-1 .group-19-RH0WJ5 {
+  background-color: transparent;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.china-1 .group-20-RH0WJ5 {
+  background-color: transparent;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.china-1 .group-85-RH0WJ5 {
+  background-color: transparent;
+  height: 328px;
+  left: 196px;
+  position: absolute;
+  top: 1061px;
+  width: 379px;
+}
+.china-1 .home-RkpQgY {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 496px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.china-1 .home-RkpQgY:hover {
+
+transform: scale(1.1);
+}
+.china-1 .line-12-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.china-1 .line-2-nh8mnU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 103px;
+}
+.china-1 .line-3-RkpQgY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.china-1 .line-6-9VdFwH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.china-1 .log-in-pBHKQ8 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.china-1 .log-out-91dM5t {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.china-1 .logo-RkpQgY {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 45px;
+  min-width: 107px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 107px;
+}
+.china-1 .overlap-group-C61RwL {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 713px;
+  margin-left: 17.0px;
+  margin-top: 912px;
+  position: relative;
+  width: 1523px;
+}
+.china-1 .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1389px;
+  position: relative;
+  width: 1600px;
+}
+.china-1 .peking-duck-TwnmRp {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 199px;
+}
+.china-1 .recipe-4eduM0 {
+  background-color: var(--white);
+  border: 0;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 81px;
+  left: 759px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  top: 209px;
+  width: 447px;
+}
+.china-1 .rectangle-17-BRwMZ2 {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-1 .rectangle-18-BRwMZ2 {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 37px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-1 .rectangle-19-BRwMZ2 {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 229px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-1 .rectangle-2-91dM5t {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.china-1 .rectangle-2-pBHKQ8 {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.china-1 .rectangle-2-q0iv8T {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.china-1 .rectangle-20-BRwMZ2 {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 40px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-1 .rectangle-86-TwnmRp {
+  background-color: transparent;
+  height: 211px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 346px;
+}
+.china-1 .rectangle-87-TwnmRp {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 377px;
+}
+.china-1 .rectangle-88-RH0WJ5 {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 618px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1061px;
+  width: 376px;
+}
+.china-1 .rectangle-89-RH0WJ5 {
+  background-color: transparent;
+  height: 211px;
+  left: 633px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1087px;
+  width: 346px;
+}
+.china-1 .rectangle-90-RH0WJ5 {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 1039px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1061px;
+  width: 377px;
+}
+.china-1 .rectangle-91-RH0WJ5 {
+  background-color: transparent;
+  height: 211px;
+  left: 1055px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1087px;
+  width: 346px;
+}
+.china-1 .rectangle-92-4eduM0 {
+  background-color: #f3f3f3;
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 598px;
+  left: 179px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1142px;
+}
+.china-1 .rectangle-93-4eduM0 {
+  background-color: #d92824;
+  border-radius: 15px;
+  height: 75px;
+  left: 980px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 463px;
+  width: 223px;
+}
+.china-1 .sesame-ginger-chicken-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 1057px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1328px;
+  width: 343px;
+}
+.china-1 .shanghai-soup-dumplings-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 638px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1328px;
+  width: 343px;
+}
+.china-1 .sign-up-q0iv8T {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.china-1 .skills-RkpQgY {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.china-1 .submit-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 999px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 477px;
+  width: 194px;
+}
+.china-1 .subtract-JfrZ6n {
+  background-color: transparent;
+  height: 241px;
+  left: 164px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 165px;
+  width: 618px;
+}
+.china-1 .textlabel-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 607px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 297px;
+  width: 79px;
+}
+.china-1 .url-4eduM0 {
+  background-color: var(--white);
+  border: 0;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 81px;
+  left: 285px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  top: 328px;
+  width: 921px;
+}
+.china-1 .vector-1-RH0WJ5 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.china-1 .vector-14-4eduM0 {
+  background-color: transparent;
+  height: 596px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 117px;
+  width: 1523px;
+}
+.china-1 .vector-16-JfrZ6n {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 946px;
+}
+.china-1 .vector-2-RH0WJ5 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.china-1 .vector-3-RH0WJ5 {
+  background-color: transparent;
+  height: 253px;
+  left: 577px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 567px;
+  width: 1023px;
+}
+.china-1 .vector-4-RH0WJ5 {
+  background-color: transparent;
+  height: 258px;
+  left: 579px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 562px;
+  width: 1021px;
+}
+.china-1 .vector-7-RH0WJ5 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 585px;
+}
+.china-1 .vector-JfrZ6n {
+  background-color: transparent;
+  height: 166px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 875px;
+}

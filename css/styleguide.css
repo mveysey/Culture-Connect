@@ -1,0 +1,121 @@
+:root {
+  --black: #000000;
+  --desert-storm: #f8f8f8;
+  --mist-gray: #c4c4c4;
+  --ogre-odor: #f0523f;
+  --razzmatazz: #e80162;
+  --star-dust: #9f9f9f;
+  --storm-dust: #636363;
+  --sunglow: #ffc849;
+  --tan-hide: #f99250;
+  --white: #ffffff;
+
+  --font-size-l: 48px;
+  --font-size-m: 36px;
+  --font-size-s: 30px;
+  --font-size-xl: 72px;
+  --font-size-xs: 27px;
+  --font-size-xxs: 26px;
+  --font-size-xxxs: 24px;
+
+  --font-family-cabin: "Cabin", Helvetica;
+  --font-family-helvetica_neue-regular: "Helvetica Neue-Regular", Helvetica;
+}
+.cabin-normal-black-27px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+.cabin-normal-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+.cabin-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-bold-black-72px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-normal-star-dust-27px {
+  color: var(--star-dust);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+.cabin-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-bold-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-normal-storm-dust-30px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.cabin-normal-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.cabin-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-normal-sunglow-72px {
+  color: var(--sunglow);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+.cabin-bold-black-36px-2 {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+.cabin-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,717 @@
+/* screen - cooking-1 */
+
+.cooking-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2462px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.cooking-1 .chinese-NlJtxL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: -153px;
+  min-height: 61px;
+  min-width: 150px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  width: 150px;
+}
+.cooking-1 .choose-a-culture-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 447px;
+  width: 802px;
+}
+.cooking-1 .cooking-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.cooking-1 .egyptian-NG5cxJ {
+  background-color: transparent;
+  height: auto;
+  left: 1069px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.cooking-1 .explore-stuff-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  min-height: 32px;
+  min-width: 160px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 160px;
+}
+.cooking-1 .filipino-CwiSGc {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.cooking-1 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: -0.46px;
+  margin-top: 4px;
+  min-height: 2062px;
+  position: relative;
+  width: 1600px;
+}
+.cooking-1 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 44px;
+  margin-top: 60px;
+  min-height: 44px;
+  position: relative;
+  width: 105px;
+}
+.cooking-1 .flex-col-dXBp89 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 11px;
+  min-height: 312px;
+  position: relative;
+  width: 599px;
+}
+.cooking-1 .flex-col-y1HRxC {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 232px;
+  min-height: 570px;
+  position: absolute;
+  top: 541px;
+  width: 355px;
+}
+.cooking-1 .flex-row-0xy0vn {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  margin-left: 18.54px;
+  margin-top: 60px;
+  min-width: 1155px;
+  position: relative;
+  width: auto;
+}
+.cooking-1 .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 399px;
+  justify-content: flex-start;
+  min-width: 1506px;
+  position: relative;
+  width: auto;
+}
+.cooking-1 .flex-row-NlJtxL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  margin-top: 152px;
+  min-width: 355px;
+  position: relative;
+  width: auto;
+}
+.cooking-1 .forum-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.cooking-1 .greek-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 1146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 959px;
+  width: 138px;
+}
+.cooking-1 .group-18-Rh39WR {
+  background-color: transparent;
+  height: 45px;
+  left: 134px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.cooking-1 .group-19-Rh39WR {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.cooking-1 .group-20-Rh39WR {
+  background-color: transparent;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.cooking-1 .haitian-NG5cxJ {
+  background-color: transparent;
+  height: auto;
+  left: 664px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.cooking-1 .home-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.cooking-1 .home-dXBp89:hover {
+
+transform: scale(1.1);
+}
+.cooking-1 .indian-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 748px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 959px;
+  width: 131px;
+}
+.cooking-1 .indigenous-NG5cxJ {
+  background-color: transparent;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.cooking-1 .iranian-BjQda2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: -260px;
+  margin-top: 12.0px;
+  min-height: 61px;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  width: 167px;
+}
+.cooking-1 .isreali-3lZX4d {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.cooking-1 .japanese-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 643px;
+  width: 200px;
+}
+.cooking-1 .kenyan-xx15qk {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 265px;
+}
+.cooking-1 .korean-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 1142px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 648px;
+  width: 157px;
+}
+.cooking-1 .learn-new-recipes-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 171px;
+  min-height: 96px;
+  min-width: 599px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 599px;
+}
+.cooking-1 .line-2-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 103px;
+}
+.cooking-1 .line-3-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  margin-top: 55px;
+  position: relative;
+  width: 2px;
+}
+.cooking-1 .line-6-y1HRxC {
+  background-color: transparent;
+  height: 62px;
+  left: 230px;
+  position: absolute;
+  top: 439px;
+  width: 3px;
+}
+.cooking-1 .log-in-HLbGce {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.cooking-1 .log-out-RbZAuc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.cooking-1 .logo-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 45px;
+  min-width: 107px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 107px;
+}
+.cooking-1 .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1111px;
+  margin-top: 80px;
+  position: relative;
+  width: 1600px;
+}
+.cooking-1 .overlap-group1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 464px;
+  margin-left: 33px;
+  margin-top: 60px;
+  position: relative;
+  width: 1354px;
+}
+.cooking-1 .overlap-group2-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  position: relative;
+  width: 355px;
+}
+.cooking-1 .overlap-group3-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-left: 48px;
+  position: relative;
+  width: 355px;
+}
+.cooking-1 .overlap-group4-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-left: 42px;
+  position: relative;
+  width: 355px;
+}
+.cooking-1 .overlap-group5-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 399px;
+  margin-left: 20px;
+  position: relative;
+  width: 387px;
+}
+.cooking-1 .rectangle-10-3lZX4d {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.cooking-1 .rectangle-11-xx15qk {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.cooking-1 .rectangle-12-NG5cxJ {
+  background-color: transparent;
+  height: 255px;
+  left: 199px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.cooking-1 .rectangle-13-NG5cxJ {
+  background-color: transparent;
+  height: 255px;
+  left: 602px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.cooking-1 .rectangle-14-NG5cxJ {
+  background-color: transparent;
+  height: 255px;
+  left: 999px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.cooking-1 .rectangle-2-HLbGce {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.cooking-1 .rectangle-2-NEifxG {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.cooking-1 .rectangle-2-RbZAuc {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.cooking-1 .rectangle-3-NlJtxL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 355px;
+}
+.cooking-1 .rectangle-4-y1HRxC {
+  background-color: transparent;
+  height: 255px;
+  left: 635px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 355px;
+}
+.cooking-1 .rectangle-5-y1HRxC {
+  background-color: transparent;
+  height: 255px;
+  left: 1032px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 355px;
+}
+.cooking-1 .rectangle-6-BjQda2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 355px;
+}
+.cooking-1 .rectangle-7-y1HRxC {
+  background-color: transparent;
+  height: 255px;
+  left: 635px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 856px;
+  width: 355px;
+}
+.cooking-1 .rectangle-8-y1HRxC {
+  background-color: transparent;
+  height: 255px;
+  left: 1032px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 856px;
+  width: 355px;
+}
+.cooking-1 .rectangle-9-CwiSGc {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.cooking-1 .sign-up-NEifxG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.cooking-1 .skills-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.cooking-1 .vector-1-Rh39WR {
+  background-color: transparent;
+  height: 399px;
+  left: 111px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.cooking-1 .vector-14-NG5cxJ {
+  background-color: transparent;
+  height: 298px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 166px;
+  width: 1336px;
+}
+.cooking-1 .vector-15-y1HRxC {
+  background-color: transparent;
+  height: 631px;
+  left: 965px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 305px;
+  width: 635px;
+}
+.cooking-1 .vector-2-y1HRxC {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 786px;
+}

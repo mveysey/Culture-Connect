@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1600, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/israeli-1.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="israeli-1" />
+    <div class="container-center-horizontal">
+      <form class="israeli-1 screen" name="form175" action="form175" method="post">
+        <div class="group-89-C61RwL"><img class="vector-4-5brNdF" src="img/vector-4-11@1x.svg" /></div>
+        <div class="flex-col-C61RwL">
+          <img class="culture-connect-1-0xy0vn" src="img/culture-connect-1@2x.png" />
+          <div class="israeli-0xy0vn cabin-bold-black-72px">Israeli</div>
+          <div class="learn-more-about-the-culture-0xy0vn cabin-normal-star-dust-27px">
+            Learn more about the culture
+          </div>
+        </div>
+        <img class="vector-2-C61RwL" src="img/vector-2-2@1x.svg" />
+        <img class="vector-1-C61RwL" src="img/vector-1-2@2x.svg" />
+        <div class="flex-col-VMr6Om">
+          <div class="flex-row-lcFreP">
+            <a href="home.html"><div class="home-NvvWoh smart-layers-pointers cabin-normal-black-27px">Home</div></a>
+            <a href="skills.html"><div class="skills-NvvWoh cabin-normal-black-27px">Skills</div></a>
+            <a href="forum.html"><div class="forum-NvvWoh cabin-normal-black-27px">Forum</div></a>
+            <a href="cooking.html"><div class="cooking-NvvWoh cabin-normal-black-27px">Cooking</div></a>
+            <img class="line-3-NvvWoh" src="img/line-1@2x.svg" />
+          </div>
+          <img class="line-2-lcFreP" src="img/line-2-7@2x.svg" />
+        </div>
+        <img class="vector-7-C61RwL" src="img/vector-7-11@1x.svg" />
+        <div class="judaism-C61RwL cabin-bold-black-36px">Judaism</div>
+        <div class="rectangle-40-C61RwL">
+          <iframe
+            style="border: 0; pointer-events: auto"
+            id="ytplayer"
+            type="text/html"
+            width="100%"
+            height="100%"
+            src="https://www.youtube.com/embed/bvyxS62guos?rel=0"
+            frameborder="0"
+            allowfullscreen="allowfullscreen"
+            mozallowfullscreen="mozallowfullscreen"
+            msallowfullscreen="msallowfullscreen"
+            oallowfullscreen="oallowfullscreen"
+            webkitallowfullscreen="webkitallowfullscreen"
+          ></iframe>
+        </div>
+        <div class="canoe-design-is-and-livelihood-C61RwL cabin-normal-storm-dust-30px">
+          Canoe design is essential to indigenous communities as canoes are one of their main forms of travel and
+          livelihood.
+        </div>
+        <img class="line-6-C61RwL" src="img/line-6@2x.svg" />
+        <img class="vector-11-C61RwL" src="img/vector-11-6@1x.svg" />
+        <div class="rectangle-98-C61RwL"></div>
+        <a href="javascript:SubmitForm('form175')">
+          <div class="group-18-C61RwL">
+            <div class="rectangle-2-0xverS"></div>
+            <div class="log-in-0xverS cabin-normal-white-27px">Log in</div>
+          </div></a
+        >
+        <a href="javascript:SubmitForm('form175')">
+          <div class="group-19-C61RwL">
+            <div class="rectangle-2-ebBR7z"></div>
+            <div class="sign-up-ebBR7z cabin-normal-white-27px">Sign up</div>
+          </div></a
+        >
+        <a href="javascript:SubmitForm('form175')">
+          <div class="group-20-C61RwL">
+            <div class="rectangle-2-IE4p6q"></div>
+            <div class="log-out-IE4p6q cabin-normal-white-27px">Log out</div>
+          </div></a
+        >
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

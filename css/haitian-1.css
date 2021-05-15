@@ -1,0 +1,431 @@
+/* screen - haitian-1 */
+
+.haitian-1 {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4322px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.haitian-1 .cooking-y0eQTV {
+  align-self: flex-end;
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.haitian-1 .culture-connect-1-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.haitian-1 .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 35px;
+  margin-top: 60px;
+  min-height: 44px;
+  position: relative;
+  width: 114px;
+}
+.haitian-1 .flex-col-dXBp89 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 383px;
+  position: relative;
+  width: 637px;
+}
+.haitian-1 .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 410px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  position: relative;
+  width: auto;
+}
+.haitian-1 .forum-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.haitian-1 .group-18-iQaBfH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 134px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.haitian-1 .group-19-iQaBfH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.haitian-1 .group-20-iQaBfH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.haitian-1 .haitian-0PZcXW {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 155px;
+  min-height: 96px;
+  min-width: 543px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 543px;
+}
+.haitian-1 .home-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 64px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.haitian-1 .home-dXBp89:hover {
+
+transform: scale(1.1);
+}
+.haitian-1 .ingredients-12-ices-for-servin-4a9k2Y {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: 929px;
+}
+.haitian-1 .learn-new-recipes-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  margin-top: 0px;
+  min-height: 22px;
+  min-width: 221px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 221px;
+}
+.haitian-1 .line-2-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 103px;
+}
+.haitian-1 .line-3-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  margin-top: 55px;
+  position: relative;
+  width: 2px;
+}
+.haitian-1 .line-6-4eduM0 {
+  background-color: transparent;
+  height: 62px;
+  left: 211px;
+  position: absolute;
+  top: 485px;
+  width: 3px;
+}
+.haitian-1 .log-in-aCpxd9 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.haitian-1 .log-out-fcVkHF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.haitian-1 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 866px;
+  margin-top: 105px;
+  position: relative;
+  width: 1600px;
+}
+.haitian-1 .overlap-group1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 399px;
+  margin-left: 20px;
+  position: relative;
+  width: 389px;
+}
+.haitian-1 .overlap-group2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 823px;
+  margin-right: 1.0px;
+  margin-top: 451px;
+  position: relative;
+  width: 1129px;
+}
+.haitian-1 .overlap-group3-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1067px;
+  margin-right: 1.0px;
+  margin-top: 80px;
+  position: relative;
+  width: 1129px;
+}
+.haitian-1 .pate-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 227px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 486px;
+  width: 802px;
+}
+.haitian-1 .rectangle-2-AeFxih {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.haitian-1 .rectangle-2-aCpxd9 {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.haitian-1 .rectangle-2-fcVkHF {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.haitian-1 .rectangle-96-4a9k2Y {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 823px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1129px;
+}
+.haitian-1 .rectangle-97-eSNWXa {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 1067px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1129px;
+}
+.haitian-1 .sign-up-AeFxih {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.haitian-1 .skills-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.haitian-1 .span0-X0ir0L {
+
+}
+.haitian-1 .span0-jJQOPa {
+
+}
+.haitian-1 .span1-X0ir0L {
+
+}
+.haitian-1 .span1-jJQOPa {
+
+}
+.haitian-1 .span2-jJQOPa {
+
+}
+.haitian-1 .span3-jJQOPa {
+
+}
+.haitian-1 .step-1-in-a-med-m-serve-chilled-eSNWXa {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 845px;
+}
+.haitian-1 .vector-1-iQaBfH {
+  background-color: transparent;
+  height: 399px;
+  left: 113px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.haitian-1 .vector-14-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 440px;
+  margin-left: 23.0px;
+  margin-top: 80px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1523px;
+}
+.haitian-1 .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 786px;
+}
+.haitian-1 .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 305px;
+  width: 585px;
+}

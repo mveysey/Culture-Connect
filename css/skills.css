@@ -1,0 +1,959 @@
+/* screen - skills */
+
+.skills {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2462px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.skills .chinese-KBeS6r {
+  background-color: transparent;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 102px;
+  width: 150px;
+}
+.skills .choose-a-culture-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.skills .cooking-JMxoOc {
+  align-self: flex-end;
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.skills .culture-connect-1-TIsVZl {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.skills .egyptian-qm3YqH {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 420px;
+  width: 225px;
+}
+.skills .ellipse-1-JMxoOc {
+  background-color: var(--tan-hide);
+  border-radius: 12.5px;
+  flex-shrink: 1;
+  height: 25px;
+  margin-top: 192px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 25px;
+}
+.skills .ellipse-6-DYCZTC {
+  background-color: var(--razzmatazz);
+  border-radius: 8.5px;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 13.0px;
+  margin-top: 26px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+.skills .ellipse-7-MGVExl {
+  background-color: #ffd678;
+  border-radius: 9px;
+  flex-shrink: 1;
+  height: 18px;
+  margin-right: 12px;
+  margin-top: 188px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 18px;
+}
+.skills .ellipse-8-MGVExl {
+  align-self: flex-start;
+  background-color: #d00000;
+  border-radius: 8.5px;
+  flex-shrink: 1;
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 78px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+.skills .filipino-VZiYxQ {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.skills .flex-col-5AJyKP {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 408px;
+  position: relative;
+  width: 637px;
+}
+.skills .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 135px;
+  min-height: 1500px;
+  position: relative;
+  width: 1368px;
+}
+.skills .flex-col-GyJUNH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 1200px;
+  position: relative;
+  width: 355px;
+}
+.skills .flex-col-Hogx2W {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 40px;
+  min-height: 1406px;
+  position: relative;
+  width: 568px;
+}
+.skills .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 6.48px;
+  min-height: 793px;
+  position: relative;
+  width: 895px;
+}
+.skills .flex-col-gkUG7I {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 48px;
+  min-height: 1200px;
+  position: relative;
+  width: 357px;
+}
+.skills .flex-col-iQaBfH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 42px;
+  min-height: 298px;
+  position: absolute;
+  top: 55px;
+  width: 251px;
+}
+.skills .flex-col-pQb1PW {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 24px;
+  min-height: 250px;
+  position: relative;
+  width: 125px;
+}
+.skills .flex-col-whRVjy {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 40px;
+  min-height: 345px;
+  position: relative;
+  width: 74px;
+}
+.skills .flex-row-0PZcXW {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 408px;
+  justify-content: flex-start;
+  min-width: 895px;
+  position: relative;
+  width: auto;
+}
+.skills .flex-row-0xy0vn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1406px;
+  justify-content: flex-start;
+  margin-top: 33px;
+  min-width: 1368px;
+  position: relative;
+  width: auto;
+}
+.skills .flex-row-5AJyKP {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 345px;
+  justify-content: flex-start;
+  margin-left: 64px;
+  margin-top: 3.0px;
+  min-width: 194px;
+  position: relative;
+  width: auto;
+}
+.skills .flex-row-C61RwL {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 826px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  position: relative;
+  width: auto;
+}
+.skills .flex-row-DYCZTC {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  min-width: 251px;
+  position: relative;
+  width: auto;
+}
+.skills .forum-pQb1PW {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.skills .greek-KiO7cq {
+  background-color: transparent;
+  height: auto;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 138px;
+}
+.skills .group-10-dx8Ba7 {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 357px;
+}
+.skills .group-11-nFOi0F {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  position: relative;
+  width: 357px;
+}
+.skills .group-12-kCZvf7 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  position: relative;
+  width: 357px;
+}
+.skills .group-13-kCZvf7 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 357px;
+}
+.skills .group-14-nFOi0F {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 357px;
+}
+.skills .group-18-iQaBfH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 448px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.skills .group-19-iQaBfH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 314px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.skills .group-20-iQaBfH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 563px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.skills .group-7-iQaBfH {
+  background-color: transparent;
+  height: 410px;
+  left: 0px;
+  position: absolute;
+  top: 360px;
+  transform: rotate(-15.00deg);
+  width: 445px;
+}
+.skills .group-84-3xHcwy {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.skills .group-84-3xHcwy:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.skills .haitian-kahn80 {
+  background-color: transparent;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.skills .home-whRVjy {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.skills .home-whRVjy:hover {
+
+transform: scale(1.1);
+}
+.skills .indian-3ERYc2 {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 131px;
+}
+.skills .indigenous-DTrHo1 {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.skills .iranian-fiRbcg {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 167px;
+}
+.skills .isreali-FV0NAh {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.skills .japanese-LxY0tl {
+  background-color: transparent;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 102px;
+  width: 200px;
+}
+.skills .kenyan-qm3YqH {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 265px;
+}
+.skills .korean-MXKe5H {
+  background-color: transparent;
+  height: auto;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 107px;
+  width: 157px;
+}
+.skills .learn-new-skills-TIsVZl {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 155px;
+  min-height: 96px;
+  min-width: 543px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 543px;
+}
+.skills .line-2-MGVExl {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 1px;
+  margin-top: 7px;
+  position: relative;
+  width: 73px;
+}
+.skills .line-3-pQb1PW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.skills .log-in-aCpxd9 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.skills .log-out-fcVkHF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.skills .overlap-group-kCZvf7 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 776px;
+  margin-top: 60px;
+  position: relative;
+  width: 568px;
+}
+.skills .overlap-group1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 826px;
+  margin-left: 1px;
+  position: relative;
+  width: 703px;
+}
+.skills .overlap-group2-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 355px;
+}
+.skills .overlap-group3-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 355px;
+}
+.skills .overlap-group4-nFOi0F {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 355px;
+}
+.skills .overlap-group5-nFOi0F {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 355px;
+}
+.skills .overlap-group6-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-top: 60px;
+  position: relative;
+  width: 355px;
+}
+.skills .rectangle-10-FV0NAh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-11-qm3YqH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-12-DTrHo1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-13-kahn80 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-14-qm3YqH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 315px;
+  width: 355px;
+}
+.skills .rectangle-2-AeFxih {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.skills .rectangle-2-aCpxd9 {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.skills .rectangle-2-fcVkHF {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.skills .rectangle-3-KBeS6r {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-4-LxY0tl {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-5-MXKe5H {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-6-fiRbcg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.skills .rectangle-6-fiRbcg:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.skills .rectangle-7-3ERYc2 {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-8-KiO7cq {
+  background-color: transparent;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .rectangle-9-VZiYxQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.skills .sign-up-AeFxih {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.skills .skills-MGVExl {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.skills .vector-1-iQaBfH {
+  background-color: transparent;
+  height: 399px;
+  left: 427px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.skills .vector-10-2p4gIw {
+  background-color: transparent;
+  height: 258px;
+  left: -23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 178px;
+  transform: rotate(15.00deg);
+  width: 274px;
+}
+.skills .vector-11-2p4gIw {
+  background-color: transparent;
+  height: 288px;
+  left: -23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -10px;
+  transform: rotate(15.00deg);
+  width: 271px;
+}
+.skills .vector-12-2p4gIw {
+  background-color: transparent;
+  height: 294px;
+  left: 148px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -9px;
+  transform: rotate(15.00deg);
+  width: 305px;
+}
+.skills .vector-13-iQaBfH {
+  background-color: transparent;
+  height: 258px;
+  left: 298px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 568px;
+  width: 312px;
+}
+.skills .vector-14-qm3YqH {
+  background-color: transparent;
+  height: 553px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 223px;
+  width: 558px;
+}
+.skills .vector-2-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 305px;
+  margin-top: 80px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 786px;
+}
+.skills .welcome-we-are-n-our-community-TIsVZl {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 47.0px;
+  margin-top: 0px;
+  min-height: 47px;
+  min-width: 488px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 488px;
+}

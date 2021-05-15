@@ -1,0 +1,612 @@
+/* screen - china */
+
+.china {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3983px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.china .buddhism-BdpSxK {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.china .buddhism-is-a-w-eace-and-wisdom-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 120.0px;
+  margin-top: 27px;
+  min-height: 110px;
+  min-width: 938px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 938px;
+}
+.china .calligraphy-is-be-simply-read-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 269px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1050px;
+  width: 882px;
+}
+.china .chinese-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.china .chinese-calligraphy-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 962px;
+  width: 802px;
+}
+.china .cooking-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.china .culture-connect-1-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.china .flex-col-BVP5wq {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.china .flex-row-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.china .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 69px;
+  justify-content: flex-start;
+  margin-right: 329.5px;
+  margin-top: 133px;
+  min-width: 816px;
+  position: relative;
+  width: auto;
+}
+.china .flex-row-VMr6Om {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 69px;
+  justify-content: flex-start;
+  margin-right: 328.5px;
+  margin-top: 141px;
+  min-width: 817px;
+  position: relative;
+  width: auto;
+}
+.china .flex-row-rVpU9B {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.china .forum-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.china .group-15-Ym1J48 {
+  background-color: transparent;
+  height: 23px;
+  left: 220px;
+  position: absolute;
+  top: 170px;
+  width: 500px;
+}
+.china .group-16-Ym1J48 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 62px;
+  justify-content: flex-start;
+  left: 232px;
+  min-width: 494px;
+  position: absolute;
+  top: 301px;
+  width: auto;
+}
+.china .group-17-4eduM0 {
+  background-color: transparent;
+  height: 406px;
+  left: 635px;
+  position: absolute;
+  top: 261px;
+  width: 946px;
+}
+.china .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.china .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.china .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.china .home-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.china .home-FSLMJj:hover {
+
+transform: scale(1.1);
+}
+.china .learn-more-about-the-culture-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 245px;
+}
+.china .line-2-rVpU9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 181.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 78px;
+}
+.china .line-3-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.china .line-6-4eduM0 {
+  background-color: transparent;
+  height: 62px;
+  left: 227px;
+  position: absolute;
+  top: 947px;
+  width: 3px;
+}
+.china .line-7-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.china .line-8-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.china .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.china .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.china .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1785px;
+  position: relative;
+  width: 1600px;
+}
+.china .overlap-group1-C61RwL {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 852px;
+  margin-left: -0.0px;
+  margin-top: 31px;
+  position: relative;
+  width: 1361px;
+}
+.china .rectangle-17-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china .rectangle-18-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 37px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china .rectangle-19-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 229px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.china .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.china .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.china .rectangle-20-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 40px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china .rectangle-40-4eduM0 {
+  background-color: transparent;
+  height: 557px;
+  left: 271px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1228px;
+  width: 1090px;
+}
+.china .rectangle-41-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 557px;
+  margin-left: 32.0px;
+  margin-top: 74px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 1090px;
+}
+.china .rectangle-42-RH0WJ5 {
+  background-color: transparent;
+  height: 557px;
+  left: 271px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1090px;
+}
+.china .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.china .skills-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.china .subtract-Ym1J48 {
+  background-color: transparent;
+  height: 241px;
+  left: 164px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 165px;
+  width: 618px;
+}
+.china .tai-chi-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.china .tai-chi-is-a-ma-alth-conditions-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 120.0px;
+  margin-top: 26px;
+  min-height: 110px;
+  min-width: 938px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 938px;
+}
+.china .textlabel-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 79px;
+}
+.china .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.china .vector-16-Ym1J48 {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 946px;
+}
+.china .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.china .vector-3-4eduM0 {
+  background-color: transparent;
+  height: 253px;
+  left: 576px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 567px;
+  width: 1023px;
+}
+.china .vector-4-4eduM0 {
+  background-color: transparent;
+  height: 258px;
+  left: 579px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 562px;
+  width: 1021px;
+}
+.china .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1014px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 585px;
+}
+.china .vector-8-RH0WJ5 {
+  background-color: transparent;
+  height: 561px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 291px;
+  width: 585px;
+}
+.china .vector-Ym1J48 {
+  background-color: transparent;
+  height: 166px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 875px;
+}

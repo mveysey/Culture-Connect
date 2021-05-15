@@ -1,0 +1,802 @@
+/* screen - cooking */
+
+.cooking {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2462px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.cooking .chinese-CPaNpe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: -153px;
+  min-height: 61px;
+  min-width: 150px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  width: 150px;
+}
+.cooking .choose-a-culture-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 962px;
+  width: 802px;
+}
+.cooking .cooking-rVpU9B {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.cooking .culture-connect-1-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.cooking .egyptian-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 1069px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.cooking .filipino-zUA2mT {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.cooking .flex-col-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 528px;
+  position: absolute;
+  top: 292px;
+  width: 786px;
+}
+.cooking .flex-col-BJQsbv {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 232px;
+  min-height: 570px;
+  position: absolute;
+  top: 1056px;
+  width: 355px;
+}
+.cooking .flex-col-BVP5wq {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 0.5px;
+  margin-left: 44px;
+  min-height: 44px;
+  position: relative;
+  width: 105px;
+}
+.cooking .flex-row-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1192px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.cooking .flex-row-C61RwL {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  margin-left: 19.0px;
+  margin-top: 60px;
+  min-width: 1155px;
+  position: relative;
+  width: auto;
+}
+.cooking .flex-row-CPaNpe {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  margin-top: 152px;
+  min-width: 355px;
+  position: relative;
+  width: auto;
+}
+.cooking .forum-BVP5wq {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: 11.0px;
+  margin-left: 42px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.cooking .greek-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 1474px;
+  width: 138px;
+}
+.cooking .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.cooking .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.cooking .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.cooking .haitian-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 664px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.cooking .home-BVP5wq {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: 11.0px;
+  margin-left: 563px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.cooking .home-BVP5wq:hover {
+
+transform: scale(1.1);
+}
+.cooking .indian-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 748px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 1474px;
+  width: 131px;
+}
+.cooking .indigenous-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.cooking .iranian-6aqnuS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: -260px;
+  margin-top: 12.0px;
+  min-height: 61px;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  width: 167px;
+}
+.cooking .isreali-iofYqm {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.cooking .japanese-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 1158px;
+  width: 200px;
+}
+.cooking .kenyan-16utTQ {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 265px;
+}
+.cooking .korean-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1142px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 1163px;
+  width: 157px;
+}
+.cooking .learn-new-recipes-qUdiio {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 96px;
+  min-width: 599px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 599px;
+}
+.cooking .line-2-rVpU9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-left: 2px;
+  margin-top: 7px;
+  position: relative;
+  width: 103px;
+}
+.cooking .line-3-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-bottom: 12.0px;
+  margin-left: 18px;
+  position: relative;
+  width: 2px;
+}
+.cooking .line-6-4eduM0 {
+  background-color: transparent;
+  height: 62px;
+  left: 230px;
+  position: absolute;
+  top: 954px;
+  width: 3px;
+}
+.cooking .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.cooking .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.cooking .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1626px;
+  position: relative;
+  width: 1600px;
+}
+.cooking .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 464px;
+  margin-left: 33px;
+  margin-top: 60px;
+  position: relative;
+  width: 1354px;
+}
+.cooking .overlap-group2-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  position: relative;
+  width: 355px;
+}
+.cooking .overlap-group3-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-left: 48px;
+  position: relative;
+  width: 355px;
+}
+.cooking .overlap-group4-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-left: 42px;
+  position: relative;
+  width: 355px;
+}
+.cooking .pick-a-culture-o-learn-recipes-qUdiio {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  margin-top: 15px;
+  min-height: 32px;
+  min-width: 373px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 373px;
+}
+.cooking .rectangle-10-iofYqm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-10-iofYqm:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-11-16utTQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-11-16utTQ:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-12-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 199px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-12-RH0WJ5:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-13-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 602px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-13-RH0WJ5:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-14-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 999px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-14-RH0WJ5:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.cooking .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.cooking .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.cooking .rectangle-3-CPaNpe {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-3-CPaNpe:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-4-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 635px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1056px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-4-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-5-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 1032px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1056px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-5-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-6-6aqnuS {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 255px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-6-6aqnuS:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-7-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 635px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1371px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-7-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-8-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 1032px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1371px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-8-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-9-zUA2mT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 355px;
+}
+.cooking .rectangle-9-zUA2mT:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cooking .rectangle-98-4eduM0 {
+  background-color: var(--mist-gray);
+  height: 507px;
+  left: 786px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 232px;
+  width: 790px;
+}
+.cooking .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.cooking .skills-BVP5wq {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: 11.0px;
+  margin-left: 45px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.cooking .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.cooking .vector-14-RH0WJ5 {
+  background-color: transparent;
+  height: 298px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 166px;
+  width: 1336px;
+}
+.cooking .vector-15-4eduM0 {
+  background-color: transparent;
+  height: 631px;
+  left: 965px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 635px;
+}
+.cooking .vector-2-qUdiio {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 305px;
+  margin-top: 80px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 786px;
+}

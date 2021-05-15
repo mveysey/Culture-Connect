@@ -1,0 +1,252 @@
+/* screen - iranian-1 */
+
+.iranian-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 3265px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: auto;
+}
+.iranian-1 .cooking-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.iranian-1 .explore-stuff-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  margin-top: 15px;
+  min-height: 32px;
+  min-width: 160px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 160px;
+}
+.iranian-1 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 55px;
+  min-height: 1290px;
+  position: relative;
+  width: 1201px;
+}
+.iranian-1 .flex-col-GyJUNH {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 34px;
+  margin-top: 5px;
+  min-height: 44px;
+  position: relative;
+  width: 80px;
+}
+.iranian-1 .flex-row-0xy0vn {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 66px;
+  justify-content: flex-start;
+  min-width: 1103px;
+  position: relative;
+  width: auto;
+}
+.iranian-1 .forum-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.iranian-1 .group-18-4eduM0 {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.iranian-1 .home-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 507px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.iranian-1 .home-GyJUNH:hover {
+
+transform: scale(1.1);
+}
+.iranian-1 .iranian-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 94px;
+  margin-top: 171px;
+  min-height: 96px;
+  min-width: 543px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 543px;
+}
+.iranian-1 .line-3-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.iranian-1 .line-5-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 2px;
+  margin-top: 7px;
+  position: relative;
+  width: 78px;
+}
+.iranian-1 .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.iranian-1 .logo-GyJUNH {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 45px;
+  min-width: 107px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 107px;
+}
+.iranian-1 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 399px;
+  margin-left: 22px;
+  position: relative;
+  width: 376px;
+}
+.iranian-1 .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.iranian-1 .rectangle-40-0xy0vn {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 399.0px;
+  margin-top: 524px;
+  overflow: hidden;
+  position: relative;
+  width: 1px;
+}
+.iranian-1 .skills-3xHcwy {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.iranian-1 .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 100px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.iranian-1 .vector-2-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 305px;
+  margin-top: 80px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 786px;
+}

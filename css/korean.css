@@ -1,0 +1,461 @@
+/* screen - korean */
+
+.korean {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2907px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.korean .cooking-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.korean .culture-connect-1-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.korean .flex-col-BVP5wq {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.korean .flex-row-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.korean .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 68px;
+  justify-content: flex-start;
+  margin-right: 368.5px;
+  margin-top: 142px;
+  min-width: 829px;
+  position: relative;
+  width: auto;
+}
+.korean .flex-row-rVpU9B {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.korean .forum-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.korean .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.korean .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.korean .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.korean .group-92-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/vector-3-5@1x.svg);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 238px;
+  justify-content: flex-start;
+  left: 577px;
+  min-width: 1023px;
+  padding: 0 2.9px;
+  position: absolute;
+  top: 581px;
+  width: auto;
+}
+.korean .home-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.korean .home-FSLMJj:hover {
+
+transform: scale(1.1);
+}
+.korean .k-pop-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 23px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.korean .k-pop-dance-is-beats-and-tunes-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 46.0px;
+  margin-top: 21px;
+  min-height: 110px;
+  min-width: 1042px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1042px;
+}
+.korean .korean-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.korean .learn-more-about-the-culture-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 221px;
+}
+.korean .line-3-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.korean .line-4-rVpU9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 179.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 78px;
+}
+.korean .line-6-4eduM0 {
+  background-color: transparent;
+  height: 62px;
+  left: 201px;
+  position: absolute;
+  top: 954px;
+  width: 3px;
+}
+.korean .line-7-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.korean .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.korean .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.korean .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1770px;
+  position: relative;
+  width: 1600px;
+}
+.korean .overlap-group1-C61RwL {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 786px;
+  margin-left: -0.0px;
+  margin-top: 11px;
+  position: relative;
+  width: 1345px;
+}
+.korean .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.korean .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.korean .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.korean .rectangle-40-4eduM0 {
+  background-color: transparent;
+  height: 557px;
+  left: 255px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1213px;
+  width: 1090px;
+}
+.korean .rectangle-41-RH0WJ5 {
+  background-color: transparent;
+  height: 557px;
+  left: 255px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1090px;
+}
+.korean .rectangle-98-4eduM0 {
+  background-color: var(--mist-gray);
+  height: 422px;
+  left: 593px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 245px;
+  width: 948px;
+}
+.korean .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.korean .skills-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.korean .taekwondo-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 228px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 962px;
+  width: 802px;
+}
+.korean .taekwondo-is-a-king-techniques-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1044px;
+  width: 938px;
+}
+.korean .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.korean .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.korean .vector-4-r8LzD0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 238px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 911px;
+}
+.korean .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 819px;
+  width: 585px;
+}
+.korean .vector-8-RH0WJ5 {
+  background-color: transparent;
+  height: 561px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 225px;
+  width: 585px;
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1600, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/korean-recipe.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="korean-recipe" />
+    <div class="container-center-horizontal">
+      <form class="korean-recipe screen" name="form136" action="form136" method="post">
+        <div class="overlap-group-C61RwL">
+          <div class="group-91-4eduM0"><img class="vector-4-fxyx1r" src="img/vector-4-6@1x.svg" /></div>
+          <div class="korean-4eduM0 cabin-bold-black-72px">Korean</div>
+          <img class="vector-2-4eduM0" src="img/vector-2-5@1x.svg" />
+          <img class="vector-1-4eduM0" src="img/vector-1-5@2x.svg" />
+          <img class="vector-7-4eduM0" src="img/vector-7-4@1x.svg" />
+          <div class="flex-row-4eduM0">
+            <img class="culture-connect-1-BVP5wq" src="img/culture-connect-1@2x.png" />
+            <div class="flex-col-BVP5wq">
+              <div class="flex-row-rVpU9B">
+                <a href="home.html"
+                  ><div class="home-FSLMJj smart-layers-pointers cabin-normal-black-27px">Home</div></a
+                >
+                <a href="skills.html"><div class="skills-FSLMJj cabin-normal-black-27px">Skills</div></a>
+                <a href="forum.html"><div class="forum-FSLMJj cabin-normal-black-27px">Forum</div></a>
+                <a href="cooking.html"><div class="cooking-FSLMJj cabin-normal-black-27px">Cooking</div></a>
+                <img class="line-3-FSLMJj" src="img/line-1@2x.svg" />
+              </div>
+              <img class="line-2-rVpU9B" src="img/line-2-17@2x.svg" />
+            </div>
+          </div>
+          <div class="flex-row-BJQsbv">
+            <img class="line-12-qOxrzu" src="img/line-6@2x.svg" />
+            <div class="glass-noodles-qOxrzu cabin-bold-black-48px">Glass Noodles</div>
+          </div>
+          <a href="javascript:SubmitForm('form136')">
+            <div class="group-18-4eduM0">
+              <div class="rectangle-2-ulG7hq"></div>
+              <div class="log-in-ulG7hq cabin-normal-white-27px">Log in</div>
+            </div></a
+          >
+          <a href="javascript:SubmitForm('form136')">
+            <div class="group-19-4eduM0">
+              <div class="rectangle-2-xPfyMe"></div>
+              <div class="sign-up-xPfyMe cabin-normal-white-27px">Sign up</div>
+            </div></a
+          >
+          <a href="javascript:SubmitForm('form136')">
+            <div class="group-20-4eduM0">
+              <div class="rectangle-2-Gr60HI"></div>
+              <div class="log-out-Gr60HI cabin-normal-white-27px">Log out</div>
+            </div></a
+          >
+          <div class="learn-new-recipes-4eduM0 cabin-normal-star-dust-27px">Learn new recipes</div>
+          <div class="rectangle-98-4eduM0"></div>
+        </div>
+        <div class="rectangle-96-C61RwL"></div>
+        <div class="rectangle-97-C61RwL"></div>
+        <img class="vector-14-C61RwL" src="img/vector-14-22@1x.svg" />
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,447 @@
+/* screen - indigenous-recie */
+
+.indigenous-recie {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4374px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.indigenous-recie .baked-halibut-qOxrzu {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 13px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.indigenous-recie .cooking-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.indigenous-recie .culture-connect-1-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.indigenous-recie .flex-col-BVP5wq {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.indigenous-recie .flex-row-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.indigenous-recie .flex-row-BJQsbv {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 68px;
+  justify-content: flex-start;
+  left: 192px;
+  min-width: 819px;
+  position: absolute;
+  top: 1000px;
+  width: auto;
+}
+.indigenous-recie .flex-row-rVpU9B {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.indigenous-recie .forum-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.indigenous-recie .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.indigenous-recie .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.indigenous-recie .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.indigenous-recie .home-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.indigenous-recie .home-FSLMJj:hover {
+
+transform: scale(1.1);
+}
+.indigenous-recie .indigenous-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.indigenous-recie .ingredients-2-l-ges-on-the-side-4a9k2Y {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 116px;
+  width: 1052px;
+}
+.indigenous-recie .learn-new-recipes-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 221px;
+}
+.indigenous-recie .line-2-rVpU9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 29.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 103px;
+}
+.indigenous-recie .line-3-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.indigenous-recie .line-6-qOxrzu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.indigenous-recie .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.indigenous-recie .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.indigenous-recie .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1380px;
+  margin-left: 4.0px;
+  position: relative;
+  width: 1604px;
+}
+.indigenous-recie .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1561px;
+  margin-left: 19.0px;
+  margin-top: 78px;
+  position: relative;
+  width: 1523px;
+}
+.indigenous-recie .overlap-group2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 903px;
+  margin-left: 25.0px;
+  margin-top: 452px;
+  position: relative;
+  width: 1207px;
+}
+.indigenous-recie .preparation-pre-choice-of-side-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 306px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 97px;
+  width: 894px;
+}
+.indigenous-recie .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.indigenous-recie .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.indigenous-recie .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.indigenous-recie .rectangle-96-4a9k2Y {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 903px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1207px;
+}
+.indigenous-recie .rectangle-97-RH0WJ5 {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 1312px;
+  left: 161px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1207px;
+}
+.indigenous-recie .rectangle-98-4eduM0 {
+  background-color: var(--mist-gray);
+  height: 422px;
+  left: 585px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 245px;
+  width: 993px;
+}
+.indigenous-recie .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.indigenous-recie .skills-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.indigenous-recie .span0-zlxS8q {
+
+}
+.indigenous-recie .span1-zlxS8q {
+
+}
+.indigenous-recie .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.indigenous-recie .vector-14-RH0WJ5 {
+  background-color: transparent;
+  height: 349px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1212px;
+  width: 1523px;
+}
+.indigenous-recie .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.indigenous-recie .vector-3-4eduM0 {
+  background-color: transparent;
+  height: 238px;
+  left: 577px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 581px;
+  width: 1023px;
+}
+.indigenous-recie .vector-4-4eduM0 {
+  background-color: transparent;
+  height: 238px;
+  left: 580px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 581px;
+  width: 911px;
+}
+.indigenous-recie .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1019px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 819px;
+  width: 585px;
+}

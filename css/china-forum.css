@@ -1,0 +1,404 @@
+/* screen - china-forum */
+
+.china-forum {
+  background-color: var(--white);
+  height: 4085px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.china-forum .chinese-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.china-forum .cooking-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.china-forum .culture-connect-1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.china-forum .flex-col-dXBp89 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 7.5px;
+  margin-left: 561px;
+  min-height: 46px;
+  position: relative;
+  width: 489px;
+}
+.china-forum .flex-row-0PZcXW {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.china-forum .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.china-forum .forum-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.china-forum .group-15-B2GfxI {
+  background-color: transparent;
+  height: 23px;
+  left: 220px;
+  position: absolute;
+  top: 170px;
+  width: 500px;
+}
+.china-forum .group-16-B2GfxI {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 62px;
+  justify-content: flex-start;
+  left: 232px;
+  min-width: 494px;
+  position: absolute;
+  top: 301px;
+  width: auto;
+}
+.china-forum .group-17-C61RwL {
+  background-color: transparent;
+  height: 406px;
+  left: 635px;
+  position: absolute;
+  top: 261px;
+  width: 946px;
+}
+.china-forum .group-18-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.china-forum .group-19-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.china-forum .group-20-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.china-forum .home-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.china-forum .home-5AJyKP:hover {
+
+transform: scale(1.1);
+}
+.china-forum .line-2-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-left: 57.0px;
+  margin-top: 1px;
+  position: relative;
+  width: 78px;
+}
+.china-forum .line-3-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.china-forum .log-in-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.china-forum .log-out-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.china-forum .rectangle-17-dOltAM {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-forum .rectangle-18-dOltAM {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 37px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-forum .rectangle-19-dOltAM {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 229px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-forum .rectangle-2-0xverS {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.china-forum .rectangle-2-IE4p6q {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.china-forum .rectangle-2-ebBR7z {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.china-forum .rectangle-20-dOltAM {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 40px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.china-forum .share-your-experience-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 245px;
+}
+.china-forum .sign-up-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.china-forum .skills-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.china-forum .subtract-B2GfxI {
+  background-color: transparent;
+  height: 241px;
+  left: 164px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 165px;
+  width: 618px;
+}
+.china-forum .textlabel-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 580px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 79px;
+}
+.china-forum .vector-1-C61RwL {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.china-forum .vector-16-B2GfxI {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 946px;
+}
+.china-forum .vector-2-C61RwL {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.china-forum .vector-3-C61RwL {
+  background-color: transparent;
+  height: 253px;
+  left: 576px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 567px;
+  width: 1023px;
+}
+.china-forum .vector-4-C61RwL {
+  background-color: transparent;
+  height: 258px;
+  left: 579px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 562px;
+  width: 1021px;
+}
+.china-forum .vector-B2GfxI {
+  background-color: transparent;
+  height: 166px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 875px;
+}

@@ -1,0 +1,695 @@
+/* screen - chinese-cooking-1 */
+
+.chinese-cooking-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3224px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.chinese-cooking-1 .built-in-recipes-rVpU9B {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.chinese-cooking-1 .chinese-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.chinese-cooking-1 .community-recipes-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.chinese-cooking-1 .cooking-e2rjrs {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.chinese-cooking-1 .culture-connect-1-qOxrzu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.chinese-cooking-1 .explore-stuff-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 403px;
+  width: 160px;
+}
+.chinese-cooking-1 .flex-col-BVP5wq {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-height: 427px;
+  position: relative;
+  width: 813px;
+}
+.chinese-cooking-1 .flex-col-qOxrzu {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.chinese-cooking-1 .flex-row-4F9G3j {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.chinese-cooking-1 .flex-row-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 434px;
+  justify-content: flex-start;
+  left: 192px;
+  min-width: 817px;
+  position: absolute;
+  top: 955px;
+  width: auto;
+}
+.chinese-cooking-1 .flex-row-BJQsbv {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.chinese-cooking-1 .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 68px;
+  justify-content: flex-start;
+  margin-left: 192.5px;
+  margin-top: 142px;
+  min-width: 817px;
+  position: relative;
+  width: auto;
+}
+.chinese-cooking-1 .flex-row-rVpU9B {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 328px;
+  justify-content: flex-start;
+  margin-top: 38px;
+  min-width: 800px;
+  position: relative;
+  width: auto;
+}
+.chinese-cooking-1 .forum-e2rjrs {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.chinese-cooking-1 .group-15-Ym1J48 {
+  background-color: transparent;
+  height: 23px;
+  left: 220px;
+  position: absolute;
+  top: 170px;
+  width: 500px;
+}
+.chinese-cooking-1 .group-16-Ym1J48 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 62px;
+  justify-content: flex-start;
+  left: 232px;
+  min-width: 494px;
+  position: absolute;
+  top: 301px;
+  width: auto;
+}
+.chinese-cooking-1 .group-17-4eduM0 {
+  background-color: transparent;
+  height: 406px;
+  left: 635px;
+  position: absolute;
+  top: 261px;
+  width: 946px;
+}
+.chinese-cooking-1 .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.chinese-cooking-1 .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.chinese-cooking-1 .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.chinese-cooking-1 .group-85-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 379px;
+}
+.chinese-cooking-1 .group-85-FSLMJj:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.chinese-cooking-1 .group-93-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 328px;
+  margin-left: 43px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 378px;
+}
+.chinese-cooking-1 .group-93-FSLMJj:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.chinese-cooking-1 .group-94-4eduM0 {
+  background-color: transparent;
+  height: 328px;
+  left: 1039px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1061px;
+  transition: all 0.2s ease;
+  width: 379px;
+}
+.chinese-cooking-1 .group-94-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.chinese-cooking-1 .home-e2rjrs {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.chinese-cooking-1 .home-e2rjrs:hover {
+
+transform: scale(1.1);
+}
+.chinese-cooking-1 .line-12-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.chinese-cooking-1 .line-2-4F9G3j {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 29.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 103px;
+}
+.chinese-cooking-1 .line-3-e2rjrs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.chinese-cooking-1 .line-6-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.chinese-cooking-1 .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.chinese-cooking-1 .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.chinese-cooking-1 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1389px;
+  position: relative;
+  width: 1600px;
+}
+.chinese-cooking-1 .peking-duck-7Qegvr {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 199px;
+}
+.chinese-cooking-1 .rectangle-17-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.chinese-cooking-1 .rectangle-18-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 37px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.chinese-cooking-1 .rectangle-19-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 229px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.chinese-cooking-1 .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.chinese-cooking-1 .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.chinese-cooking-1 .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.chinese-cooking-1 .rectangle-20-CtBimz {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 62px;
+  margin-left: 40px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 47px;
+}
+.chinese-cooking-1 .rectangle-86-7Qegvr {
+  background-color: transparent;
+  height: 211px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 346px;
+}
+.chinese-cooking-1 .rectangle-87-7Qegvr {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 377px;
+}
+.chinese-cooking-1 .rectangle-88-esHLpJ {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 376px;
+}
+.chinese-cooking-1 .rectangle-88-esHLpJ:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.chinese-cooking-1 .rectangle-89-esHLpJ {
+  background-color: transparent;
+  height: 211px;
+  left: 15px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 346px;
+}
+.chinese-cooking-1 .rectangle-90-xX7jhM {
+  background-color: var(--white);
+  border-radius: 44px;
+  box-shadow: -5px 5px 10px #00000040;
+  height: 328px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 377px;
+}
+.chinese-cooking-1 .rectangle-90-xX7jhM:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.chinese-cooking-1 .rectangle-91-xX7jhM {
+  background-color: transparent;
+  height: 211px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 346px;
+}
+.chinese-cooking-1 .sesame-ginger-chicken-xX7jhM {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 343px;
+}
+.chinese-cooking-1 .shanghai-soup-dumplings-esHLpJ {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 343px;
+}
+.chinese-cooking-1 .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.chinese-cooking-1 .skills-e2rjrs {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.chinese-cooking-1 .subtract-Ym1J48 {
+  background-color: transparent;
+  height: 241px;
+  left: 164px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 165px;
+  width: 618px;
+}
+.chinese-cooking-1 .textlabel-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 607px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 297px;
+  width: 79px;
+}
+.chinese-cooking-1 .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.chinese-cooking-1 .vector-14-C61RwL {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 596px;
+  margin-left: 17.0px;
+  margin-top: 1029px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1523px;
+}
+.chinese-cooking-1 .vector-16-Ym1J48 {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 946px;
+}
+.chinese-cooking-1 .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.chinese-cooking-1 .vector-3-4eduM0 {
+  background-color: transparent;
+  height: 253px;
+  left: 577px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 567px;
+  width: 1023px;
+}
+.chinese-cooking-1 .vector-4-4eduM0 {
+  background-color: transparent;
+  height: 258px;
+  left: 579px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 562px;
+  width: 1021px;
+}
+.chinese-cooking-1 .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 585px;
+}
+.chinese-cooking-1 .vector-Ym1J48 {
+  background-color: transparent;
+  height: 166px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 875px;
+}

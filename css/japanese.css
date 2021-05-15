@@ -1,0 +1,524 @@
+/* screen - japanese */
+
+.japanese {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3983px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.japanese .a-taiko-drum-is-ry-and-religion-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 63.0px;
+  margin-top: 14px;
+  min-height: 110px;
+  min-width: 995px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 995px;
+}
+.japanese .cherry-blosson-1-RH0WJ5 {
+  background-color: transparent;
+  height: 846px;
+  left: 708px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 943px;
+}
+.japanese .cooking-e9Qdcx {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.japanese .culture-connect-1-dmjJwM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.japanese .flex-col-RH0WJ5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 383px;
+  position: absolute;
+  top: 27px;
+  width: 637px;
+}
+.japanese .flex-col-s3i1G8 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 698px;
+  min-height: 48px;
+  position: absolute;
+  top: 55px;
+  width: 489px;
+}
+.japanese .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 70px;
+  justify-content: flex-start;
+  margin-right: 342.5px;
+  margin-top: 139px;
+  min-width: 817px;
+  position: relative;
+  width: auto;
+}
+.japanese .flex-row-VMr6Om {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 70px;
+  justify-content: flex-start;
+  margin-right: 342.5px;
+  margin-top: 148px;
+  min-width: 817px;
+  position: relative;
+  width: auto;
+}
+.japanese .flex-row-lk2M0K {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.japanese .forum-e9Qdcx {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 47px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.japanese .group-18-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.japanese .group-19-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.japanese .group-20-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.japanese .home-e9Qdcx {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.japanese .home-e9Qdcx:hover {
+
+transform: scale(1.1);
+}
+.japanese .japanese-dmjJwM {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 155px;
+  min-height: 96px;
+  min-width: 543px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 543px;
+}
+.japanese .learn-more-about-the-culture-dmjJwM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  margin-top: 0px;
+  min-height: 22px;
+  min-width: 221px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 221px;
+}
+.japanese .line-3-e9Qdcx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 13px;
+  position: relative;
+  width: 2px;
+}
+.japanese .line-4-lk2M0K {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 179.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 78px;
+}
+.japanese .line-6-RH0WJ5 {
+  background-color: transparent;
+  height: 62px;
+  left: 220px;
+  position: absolute;
+  top: 961px;
+  width: 3px;
+}
+.japanese .line-7-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.japanese .line-8-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.japanese .log-in-pBHKQ8 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.japanese .log-out-91dM5t {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.japanese .meditation-BdpSxK {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.japanese .meditation-is-t-health-benefits-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 63.0px;
+  margin-top: 14px;
+  min-height: 110px;
+  min-width: 995px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 995px;
+}
+.japanese .origami-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 235px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 969px;
+  width: 802px;
+}
+.japanese .origami-is-the-pes-and-figures-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 255px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1044px;
+  width: 938px;
+}
+.japanese .overlap-group-C61RwL {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 834px;
+  margin-left: -5.0px;
+  margin-top: 69px;
+  position: relative;
+  width: 1366px;
+}
+.japanese .overlap-group1-C61RwL {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1780px;
+  position: relative;
+  width: 1651px;
+}
+.japanese .rectangle-2-91dM5t {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.japanese .rectangle-2-pBHKQ8 {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.japanese .rectangle-2-q0iv8T {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.japanese .rectangle-40-RH0WJ5 {
+  background-color: transparent;
+  height: 557px;
+  left: 255px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1223px;
+  width: 1090px;
+}
+.japanese .rectangle-41-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 557px;
+  margin-left: 32.0px;
+  margin-top: 69px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 1090px;
+}
+.japanese .rectangle-42-4eduM0 {
+  background-color: transparent;
+  height: 557px;
+  left: 276px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1090px;
+}
+.japanese .sign-up-q0iv8T {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.japanese .skills-e9Qdcx {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.japanese .taiko-drum-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 11px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.japanese .vector-1-RH0WJ5 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.japanese .vector-2-RH0WJ5 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.japanese .vector-3-RH0WJ5 {
+  background-color: transparent;
+  height: 238px;
+  left: 577px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 581px;
+  width: 1023px;
+}
+.japanese .vector-4-RH0WJ5 {
+  background-color: transparent;
+  height: 238px;
+  left: 580px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 581px;
+  width: 911px;
+}
+.japanese .vector-7-RH0WJ5 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 819px;
+  width: 585px;
+}
+.japanese .vector-8-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 273px;
+  width: 585px;
+}

@@ -1,0 +1,569 @@
+/* screen - home */
+
+.home {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 800px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: auto;
+}
+.home .cooking-TQZdep {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.home .culture-connect-1-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.home .ellipse-1-4eduM0 {
+  background-color: var(--tan-hide);
+  border-radius: 12.5px;
+  height: 25px;
+  left: 192px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 289px;
+  width: 25px;
+}
+.home .ellipse-2-4eduM0 {
+  background-color: var(--razzmatazz);
+  border-radius: 7px;
+  height: 14px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 350px;
+  width: 14px;
+}
+.home .ellipse-3-qUdiio {
+  align-self: flex-end;
+  background-color: var(--ogre-odor);
+  border-radius: 15px;
+  flex-shrink: 1;
+  height: 30px;
+  margin-top: 43px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 30px;
+}
+.home .ellipse-4-4eduM0 {
+  background-color: #ffcc4a;
+  border-radius: 9px;
+  height: 18px;
+  left: 159px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 399px;
+  width: 18px;
+}
+.home .ellipse-5-TQZdep {
+  background-color: var(--tan-hide);
+  border-radius: 9px;
+  flex-shrink: 1;
+  height: 18px;
+  margin-right: 17px;
+  margin-top: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 18px;
+}
+.home .ellipse-6-4eduM0 {
+  background-color: var(--razzmatazz);
+  border-radius: 8.5px;
+  height: 17px;
+  left: 97px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 340px;
+  width: 17px;
+}
+.home .flex-col-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 234px;
+  position: absolute;
+  top: 55px;
+  width: 370px;
+}
+.home .flex-col-ATEpp4 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 44px;
+  min-height: 156px;
+  position: relative;
+  width: 105px;
+}
+.home .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 27px;
+  min-height: 773px;
+  position: relative;
+  width: 786px;
+}
+.home .flex-col-GyJUNH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 0.5px;
+  margin-left: 557px;
+  min-height: 44px;
+  position: relative;
+  width: 84px;
+}
+.home .flex-row-0xy0vn {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 110px;
+  justify-content: flex-start;
+  min-width: 781px;
+  position: relative;
+  width: auto;
+}
+.home .flex-row-qUdiio {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 161px;
+  justify-content: flex-start;
+  min-width: 364px;
+  position: relative;
+  width: auto;
+}
+.home .forum-ATEpp4 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.home .get-started-NG5cxJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-helvetica_neue-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 133px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 293px;
+  width: 184px;
+}
+.home .group-1-xfBdmy {
+  background-color: transparent;
+  height: 414px;
+  left: -0px;
+  position: absolute;
+  top: 81px;
+  width: 374px;
+}
+.home .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 519px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.home .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 385px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.home .group-2-QWF8RR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 431px;
+  position: relative;
+  transform: rotate(-45deg);
+  width: 324px;
+}
+.home .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 634px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.home .group-3-xfBdmy {
+  background-color: transparent;
+  height: 445px;
+  left: 377px;
+  position: absolute;
+  top: -51px;
+  transform: rotate(-90deg);
+  width: 343px;
+}
+.home .group-5-NG5cxJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 275px;
+  transition: all 0.2s ease;
+  width: 260px;
+}
+.home .group-5-NG5cxJ:hover {
+
+transform: scale(1.1);
+}
+.home .group-6-4eduM0 {
+  background-color: transparent;
+  height: 557px;
+  left: 3px;
+  position: absolute;
+  top: 305px;
+  width: 771px;
+}
+.home .group-9-xfBdmy {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 534px;
+  justify-content: flex-start;
+  left: 120px;
+  min-width: 534px;
+  padding: 51.3px 105.0px;
+  position: absolute;
+  top: 23px;
+  width: auto;
+}
+.home .home-3xHcwy {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.home .home-3xHcwy:hover {
+
+transform: scale(1.1);
+}
+.home .line-2-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 78px;
+}
+.home .line-3-ATEpp4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.home .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.home .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.home .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 862px;
+  margin-left: 40px;
+  position: relative;
+  width: 774px;
+}
+.home .overlap-group1-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 594px;
+  margin-top: 69px;
+  position: relative;
+  width: 786px;
+}
+.home .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.home .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.home .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.home .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.home .skills-ATEpp4 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.home .title-NG5cxJ {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 566px;
+}
+.home .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 498px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.home .vector-2-NG5cxJ {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 289px;
+  width: 786px;
+}
+.home .vector-3-Asjzqf {
+  background-color: transparent;
+  height: 241px;
+  left: 152px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 222px;
+}
+.home .vector-3-JLbks6 {
+  background-color: transparent;
+  height: 262px;
+  left: 116px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -11px;
+  transform: rotate(45deg);
+  width: 194px;
+}
+.home .vector-3-n8FGai {
+  background-color: transparent;
+  height: 222px;
+  left: 112px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  transform: rotate(90deg);
+  width: 240px;
+}
+.home .vector-4-Asjzqf {
+  background-color: transparent;
+  height: 220px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 195px;
+  width: 244px;
+}
+.home .vector-4-JLbks6 {
+  background-color: transparent;
+  height: 211px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 208px;
+  transform: rotate(45deg);
+  width: 165px;
+}
+.home .vector-4-n8FGai {
+  background-color: transparent;
+  height: 216px;
+  left: -22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 208px;
+  transform: rotate(90deg);
+  width: 260px;
+}
+.home .vector-5-xfBdmy {
+  background-color: transparent;
+  height: 135px;
+  left: 511px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 209px;
+  width: 260px;
+}
+.home .vector-6-xfBdmy {
+  background-color: transparent;
+  height: 210px;
+  left: 377px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 285px;
+  width: 110px;
+}
+.home .vector-7-xfBdmy {
+  background-color: transparent;
+  height: 186px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 154px;
+}
+.home .welcome-we-are-n-our-community-NG5cxJ {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: 488px;
+}

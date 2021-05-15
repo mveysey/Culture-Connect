@@ -1,0 +1,303 @@
+/* screen - israeli-forum */
+
+.israeli-forum {
+  background-color: var(--white);
+  height: 3983px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.israeli-forum .cooking-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: 11.0px;
+  margin-left: 36px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.israeli-forum .culture-connect-1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.israeli-forum .flex-col-dXBp89 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 0.5px;
+  margin-left: 33px;
+  min-height: 44px;
+  position: relative;
+  width: 103px;
+}
+.israeli-forum .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.israeli-forum .forum-0PZcXW {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 3.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.israeli-forum .group-18-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.israeli-forum .group-19-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.israeli-forum .group-20-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.israeli-forum .group-89-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/vector-3-11@1x.svg);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 238px;
+  justify-content: flex-start;
+  left: 577px;
+  min-width: 1023px;
+  padding: 0 2.9px;
+  position: absolute;
+  top: 581px;
+  width: auto;
+}
+.israeli-forum .home-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: 11.0px;
+  margin-left: 561px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.israeli-forum .home-dXBp89:hover {
+
+transform: scale(1.1);
+}
+.israeli-forum .israeli-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.israeli-forum .line-2-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 103px;
+}
+.israeli-forum .line-3-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-bottom: 12.0px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.israeli-forum .log-in-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.israeli-forum .log-out-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.israeli-forum .rectangle-2-0xverS {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.israeli-forum .rectangle-2-IE4p6q {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.israeli-forum .rectangle-2-ebBR7z {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.israeli-forum .rectangle-98-C61RwL {
+  background-color: var(--mist-gray);
+  height: 422px;
+  left: 543px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 245px;
+  width: 1028px;
+}
+.israeli-forum .share-your-experience-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 245px;
+}
+.israeli-forum .sign-up-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.israeli-forum .skills-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: 11.0px;
+  margin-left: 45px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.israeli-forum .vector-1-C61RwL {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.israeli-forum .vector-2-C61RwL {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.israeli-forum .vector-4-5brNdF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 238px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 911px;
+}

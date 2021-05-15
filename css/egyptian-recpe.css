@@ -1,0 +1,460 @@
+/* screen - egyptian-recpe */
+
+.egyptian-recpe {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4416px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.egyptian-recpe .cooking-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.egyptian-recpe .culture-connect-1-BVP5wq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.egyptian-recpe .egyptian-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 543px;
+}
+.egyptian-recpe .flex-col-BVP5wq {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.egyptian-recpe .flex-row-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.egyptian-recpe .flex-row-BJQsbv {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 62px;
+  justify-content: flex-start;
+  left: 178px;
+  min-width: 818px;
+  position: absolute;
+  top: 1000px;
+  width: auto;
+}
+.egyptian-recpe .flex-row-rVpU9B {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.egyptian-recpe .forum-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.egyptian-recpe .grape-leaf-pudding-qOxrzu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 12px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.egyptian-recpe .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1345px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.egyptian-recpe .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1211px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.egyptian-recpe .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1460px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.egyptian-recpe .group-86-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/vector-3-9@1x.svg);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 238px;
+  justify-content: flex-start;
+  left: 577px;
+  min-width: 1023px;
+  padding: 0 2.9px;
+  position: absolute;
+  top: 581px;
+  width: auto;
+}
+.egyptian-recpe .home-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.egyptian-recpe .home-FSLMJj:hover {
+
+transform: scale(1.1);
+}
+.egyptian-recpe .ingredients-1-1-oon-lemon-juice-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 110px;
+  width: 929px;
+}
+.egyptian-recpe .ingredients-mix-for-20-minutes-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1033px;
+  width: 845px;
+}
+.egyptian-recpe .learn-new-recipes-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: 221px;
+}
+.egyptian-recpe .line-2-rVpU9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 29.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 103px;
+}
+.egyptian-recpe .line-3-FSLMJj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.egyptian-recpe .line-6-qOxrzu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.egyptian-recpe .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.egyptian-recpe .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.egyptian-recpe .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1712px;
+  position: relative;
+  width: 1600px;
+}
+.egyptian-recpe .overlap-group1-C61RwL {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1993px;
+  margin-right: 25.0px;
+  margin-top: 120px;
+  position: relative;
+  width: 1145px;
+}
+.egyptian-recpe .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.egyptian-recpe .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.egyptian-recpe .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.egyptian-recpe .rectangle-89-4eduM0 {
+  background-color: transparent;
+  height: 570px;
+  left: 225px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1142px;
+  width: 1066px;
+}
+.egyptian-recpe .rectangle-96-RH0WJ5 {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 870px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1129px;
+}
+.egyptian-recpe .rectangle-97-RH0WJ5 {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 1063px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 930px;
+  width: 1144px;
+}
+.egyptian-recpe .rectangle-98-4eduM0 {
+  background-color: var(--mist-gray);
+  height: 422px;
+  left: 635px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 245px;
+  width: 930px;
+}
+.egyptian-recpe .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.egyptian-recpe .skills-FSLMJj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.egyptian-recpe .span0-qo2xhC {
+
+}
+.egyptian-recpe .span0-x5rujj {
+
+}
+.egyptian-recpe .span1-qo2xhC {
+
+}
+.egyptian-recpe .span1-x5rujj {
+
+}
+.egyptian-recpe .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 1324px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.egyptian-recpe .vector-14-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 445px;
+  margin-top: 146px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1523px;
+}
+.egyptian-recpe .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 515px;
+  width: 786px;
+}
+.egyptian-recpe .vector-4-t7PV7s {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 238px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 911px;
+}
+.egyptian-recpe .vector-7-4eduM0 {
+  background-color: transparent;
+  height: 561px;
+  left: 1015px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 585px;
+}

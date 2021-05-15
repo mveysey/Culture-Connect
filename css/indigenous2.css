@@ -1,0 +1,446 @@
+/* screen - indigenous2 */
+
+.indigenous2 {
+  background-color: var(--white);
+  height: 4374px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.indigenous2 .baked-halibut-GyJUNH {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 13px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.indigenous2 .cooking-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.indigenous2 .culture-connect-1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 110px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+  width: 140px;
+}
+.indigenous2 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  min-height: 776px;
+  position: absolute;
+  top: 292px;
+  width: 1011px;
+}
+.indigenous2 .flex-col-VMr6Om {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 48px;
+  min-height: 2542px;
+  position: absolute;
+  top: 1832px;
+  width: 1523px;
+}
+.indigenous2 .flex-col-dXBp89 {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 5.5px;
+  margin-left: 561px;
+  min-height: 48px;
+  position: relative;
+  width: 489px;
+}
+.indigenous2 .flex-row-0PZcXW {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 42px;
+  justify-content: flex-start;
+  min-width: 489px;
+  position: relative;
+  width: auto;
+}
+.indigenous2 .flex-row-0xy0vn {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 68px;
+  justify-content: flex-start;
+  margin-top: 180px;
+  min-width: 819px;
+  position: relative;
+  width: auto;
+}
+.indigenous2 .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 110px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 1190px;
+  position: absolute;
+  top: 27px;
+  width: auto;
+}
+.indigenous2 .forum-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.indigenous2 .group-18-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 134px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.indigenous2 .group-19-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.indigenous2 .group-20-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.indigenous2 .home-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.indigenous2 .home-5AJyKP:hover {
+
+transform: scale(1.1);
+}
+.indigenous2 .indigenous-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 94px;
+  min-height: 96px;
+  min-width: 543px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 543px;
+}
+.indigenous2 .ingredients-2-l-ges-on-the-side-qG7pNR {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 116px;
+  width: 1052px;
+}
+.indigenous2 .learn-new-recipes-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  margin-top: 0px;
+  min-height: 22px;
+  min-width: 221px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 221px;
+}
+.indigenous2 .line-2-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-right: 29.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 103px;
+}
+.indigenous2 .line-3-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  position: relative;
+  width: 2px;
+}
+.indigenous2 .line-6-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 62px;
+  position: relative;
+  width: 3px;
+}
+.indigenous2 .log-in-ulG7hq {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.indigenous2 .log-out-Gr60HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.indigenous2 .overlap-group-C61RwL {
+  background-color: transparent;
+  height: 399px;
+  left: 1211px;
+  position: absolute;
+  top: 0px;
+  width: 389px;
+}
+.indigenous2 .overlap-group1-lcFreP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1561px;
+  margin-top: 78px;
+  position: relative;
+  width: 1523px;
+}
+.indigenous2 .overlap-group2-lcFreP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 903px;
+  margin-left: 6.0px;
+  position: relative;
+  width: 1207px;
+}
+.indigenous2 .preparation-pre-choice-of-side-cKEQA6 {
+  background-color: transparent;
+  height: auto;
+  left: 306px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 97px;
+  width: 894px;
+}
+.indigenous2 .rectangle-2-Gr60HI {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.indigenous2 .rectangle-2-ulG7hq {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.indigenous2 .rectangle-2-xPfyMe {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.indigenous2 .rectangle-96-qG7pNR {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 903px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1207px;
+}
+.indigenous2 .rectangle-97-cKEQA6 {
+  background-color: var(--desert-storm);
+  border-radius: 66px;
+  box-shadow: 0px 5px 10px #00000040;
+  height: 1312px;
+  left: 161px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1207px;
+}
+.indigenous2 .sign-up-xPfyMe {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.indigenous2 .skills-5AJyKP {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 1.0px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.indigenous2 .span0-vWDSux {
+
+}
+.indigenous2 .span1-vWDSux {
+
+}
+.indigenous2 .vector-1-4eduM0 {
+  background-color: transparent;
+  height: 399px;
+  left: 113px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.indigenous2 .vector-14-cKEQA6 {
+  background-color: transparent;
+  height: 349px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1212px;
+  width: 1523px;
+}
+.indigenous2 .vector-2-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 305px;
+  margin-top: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 786px;
+}
+.indigenous2 .vector-7-C61RwL {
+  background-color: transparent;
+  height: 561px;
+  left: 1019px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 819px;
+  width: 585px;
+}
