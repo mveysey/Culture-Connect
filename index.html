@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1600, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/home.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <style>
+        #modal-signup {
+            display: none;
+            /* Hidden by default */
+            position: fixed;
+            /* Stay in place */
+            z-index: 1;
+            /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%;
+            /* Full width */
+            height: 100%;
+            /* Full height */
+            overflow: auto;
+            /* Enable scroll if needed */
+            background-color: rgb(0, 0, 0);
+            /* Fallback color */
+            background-color: rgba(0, 0, 0, 0.4);
+            /* Black w/ opacity */
+        }
+        
+        #modal-login {
+            display: none;
+            /* Hidden by default */
+            position: fixed;
+            /* Stay in place */
+            z-index: 1;
+            /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%;
+            /* Full width */
+            height: 100%;
+            /* Full height */
+            overflow: auto;
+            /* Enable scroll if needed */
+            background-color: rgb(0, 0, 0);
+            /* Fallback color */
+            background-color: rgba(0, 0, 0, 0.4);
+            /* Black w/ opacity */
+        }
+        /* Modal Content/Box */
+        
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid #888;
+            width: 20%;
+            /* Could be more or less, depending on screen size */
+        }
+        /* The Close Button */
+        
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+</head>
+
+<body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="home" />
+    <div class="container-center-horizontal">
+        <div class="home screen">
+            <div class="flex-col-C61RwL">
+                <div class="flex-row-0xy0vn">
+                    <img class="culture-connect-1-GyJUNH" src="img/culture-connect-1@2x.png" />
+                    <div class="flex-col-GyJUNH">
+                        <a href="home.html">
+                            <div class="home-3xHcwy smart-layers-pointers cabin-normal-black-27px">Home</div>
+                        </a>
+                        <img class="line-2-3xHcwy" src="img/line-2@2x.svg" />
+                    </div>
+                </div>
+                <div class="overlap-group1-0xy0vn">
+                    <img class="vector-2-NG5cxJ" src="img/vector-2@1x.svg" />
+                    <h1 class="title-NG5cxJ cabin-bold-black-72px">Learn with Culture Connect</h1>
+                    <div class="welcome-we-are-n-our-community-NG5cxJ cabin-normal-star-dust-27px">
+                        Welcome! We are excited for you to join our community
+                    </div>
+                    <div class="get-started-NG5cxJ">GET STARTED</div>
+                    <a href="skills.html"><img class="group-5-NG5cxJ smart-layers-pointers" src="img/group-5@1x.png" /></a>
+                </div>
+            </div>
+            <div class="overlap-group-C61RwL">
+                <img class="vector-1-4eduM0" src="img/vector-1@2x.svg" />
+                <div class="group-6-4eduM0">
+                    <div class="group-1-xfBdmy">
+                        <img class="vector-3-Asjzqf" src="img/vector-3@2x.svg" />
+                        <img class="vector-4-Asjzqf" src="img/vector-4@2x.svg" />
+                    </div>
+                    <div class="group-9-xfBdmy">
+                        <div class="group-2-QWF8RR">
+                            <img class="vector-3-JLbks6" src="img/vector-3-1@2x.svg" />
+                            <img class="vector-4-JLbks6" src="img/vector-4-1@2x.svg" />
+                        </div>
+                    </div>
+                    <div class="group-3-xfBdmy">
+                        <img class="vector-3-n8FGai" src="img/vector-3-2@2x.svg" />
+                        <img class="vector-4-n8FGai" src="img/vector-4-2@2x.svg" />
+                    </div>
+                    <img class="vector-5-xfBdmy" src="img/vector-5@2x.svg" />
+                    <img class="vector-6-xfBdmy" src="img/vector-6@2x.svg" />
+                    <img class="vector-7-xfBdmy" src="img/vector-7@2x.svg" />
+                </div>
+                <div class="ellipse-1-4eduM0"></div>
+                <div class="ellipse-6-4eduM0"></div>
+                <div class="ellipse-4-4eduM0"></div>
+                <div class="flex-col-4eduM0">
+                    <div class="flex-row-qUdiio">
+                        <a href="skills.html">
+                            <div class="skills-ATEpp4 cabin-normal-black-27px">Skills</div>
+                        </a>
+                        <a href="forum.html">
+                            <div class="forum-ATEpp4 cabin-normal-black-27px">Forum</div>
+                        </a>
+                        <div class="flex-col-ATEpp4">
+                            <a href="cooking.html">
+                                <div class="cooking-TQZdep cabin-normal-black-27px">Cooking</div>
+                            </a>
+                            <div class="ellipse-5-TQZdep"></div>
+                        </div>
+                        <img class="line-3-ATEpp4" src="img/line-3@2x.svg" />
+                    </div>
+                    <div class="ellipse-3-qUdiio"></div>
+                </div>
+                <div class="ellipse-2-4eduM0"></div>
+
+                <li class="logged-out">
+                    <div class="group-18-4eduM0">
+                        <div class="log-in-ulG7hq cabin-normal-white-27px">
+                            <button id=login>Log In</button>
+                        </div>
+                    </div>
+                </li>
+                <li class="logged-out">
+                    <div class="group-19-4eduM0">
+                        <div class="sign-up-xPfyMe cabin-normal-white-27px">
+                            <button id=signup>Sign Up</button>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="logged-in">
+                    <div class="group-20-4eduM0">
+                        <div class="log-out-Gr60HI cabin-normal-white-27px">
+                            <button id=logout>Log Out</button>
+                        </div>
+                    </div>
+                </li>
+            </div>
+        </div>
+    </div>
+    <!-- SIGN UP MODAL -->
+    <div id="modal-signup" class="modal">
+        <div class="modal-content">
+            <h4 id="signup-text">Sign up</h4>
+            <br />
+            <form id="signup-form">
+                <div class="input-field">
+                    <label for="signup-email">Email address</label>
+                    <input type="email" id="signup-email" required />
+                </div>
+                <div class="input-field">
+                    <label for="signup-password">Choose password</label>
+                    <input type="password" id="signup-password" required />
+                </div>
+                <button class="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- LOGIN MODAL -->
+    <div id="modal-login" class="modal">
+        <div class="modal-content">
+            <h4 id="login-text">Login</h4>
+            <br />
+            <form id="login-form">
+                <div class="input-field">
+                    <label for="login-email">Email address</label>
+                    <input type="email" id="login-email" required />
+                </div>
+                <div class="input-field">
+                    <label for="login-password">Your password</label>
+                    <input type="password" id="login-password" required />
+                </div>
+                <button class="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-firestore.js"></script>
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+            apiKey: "AIzaSyDEIexVropFZrt48EMJsh345i9Pnyg2W7Q",
+            authDomain: "culture1-c2347.firebaseapp.com",
+            projectId: "culture1-c2347",
+
+            appId: "1:1051739596461:web:f0eaaef1c0e72fc04bc824",
+            measurementId: "G-JKBFER4114"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        //make auth and firestore ref
+        const auth = firebase.auth();
+        const db = firebase.firestore();
+        firebase.analytics();
+
+        db.settings({
+            timestampsInSnapshots: true
+        })
+
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="auth.js"></script>
+    <script src="index.js"></script>
+    <script src="modal.js"></script>
+</body>
+
+</html>
+</body>
+
+</html>
